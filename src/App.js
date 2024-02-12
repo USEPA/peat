@@ -63,9 +63,6 @@ const HighlightPopup = ({ comment }) =>
     </div>
   ) : null;
 
-// const DEFAULT_URL = "https://arxiv.org/pdf/1708.08021.pdf";
-//const DEFAULT_URL = "https://www.med.unc.edu/webguide/wp-content/uploads/sites/419/2019/07/AdobePDF.pdf"
-// const DEFAULT_URL = "http://localhost:3000/AdobePDF.pdf";
 const DEFAULT_URL = "./AdobePDF.pdf"
 let cur_highlgiht_id = 0;
 
@@ -91,57 +88,67 @@ function addTagsToFinder(data)
 }
 
 function findAnnotate(param){
-  var pageIndex = window.PdfViewer.viewer.findController.selected.pageIdx;
-  console.log(pageIndex);
-  // var pageIndex = window.PdfViewer.viewer.currentPageNumber - 1;
-  var page = window.PdfViewer.viewer.getPageView(pageIndex);
-  var pageRect = page.canvas.getClientRects()[0];
-  var viewport = page.viewport;
-  var r = document.getElementsByClassName("highlight selected")[0].getBoundingClientRect();
-  var selected = viewport.convertToPdfPoint(r.left - pageRect.x, r.top - pageRect.y).concat(viewport.convertToPdfPoint(r.right - pageRect.x, r.bottom - pageRect.y));
-  var bounds = viewport.convertToViewportRectangle(selected);
-  var height = Math.abs(bounds[1] - bounds[3])
-  var left = Math.min(bounds[0], bounds[2])
-  var top = Math.min(bounds[1], bounds[3])
-  var width = Math.abs(bounds[0] - bounds[2])
-  var text = document.getElementsByClassName("highlight selected")[0].firstChild.textContent;
-  // console.log('left:' + Math.min(bounds[0], bounds[2]) + ' top:' + Math.min(bounds[1], bounds[3]) + ' width:' + Math.abs(bounds[0] - bounds[2]) + ' height:' + Math.abs(bounds[1] - bounds[3]));
-
-
-  console.log(height, left, top, width);
-
-  var highlight = {
-    "content": {
-      "text": text
-    },
-    "position": {
-      "boundingRect": {
-        "x1": left,
-        "y1": top,
-        "x2": left + width,
-        "y2": top + height,
-        "width": pageRect.width,
-        "height": pageRect.height
-      },
-      "rects": [{
-        "x1": left,
-        "y1": top,
-        "x2": left + width,
-        "y2": top + height,
-        "width": pageRect.width,
-        "height": pageRect.height
-      }],
-      "pageNumber": pageIndex + 1,
-    },
-    "comment": {
-    		"text": $("#entities")[0][$("#entities")[0].selectedIndex].value,
-    		"relationship": ""
-    	}
+  // Check if finder has selected elements
+  if(document.getElementsByClassName("highlight selected").length === 0){
+    window.alert("No elements to annotate found, please use text finder.");
+    return;
   }
+  else{
+    console.log(document.getElementsByClassName("highlight selected"));
 
-  console.log(highlight);
+    var pageIndex = window.PdfViewer.viewer.findController.selected.pageIdx;
+    console.log(pageIndex);
+    // var pageIndex = window.PdfViewer.viewer.currentPageNumber - 1;
+    var page = window.PdfViewer.viewer.getPageView(pageIndex);
+    var pageRect = page.canvas.getClientRects()[0];
+    var viewport = page.viewport;
+    var r = document.getElementsByClassName("highlight selected")[0].getBoundingClientRect();
+    var selected = viewport.convertToPdfPoint(r.left - pageRect.x, r.top - pageRect.y).concat(viewport.convertToPdfPoint(r.right - pageRect.x, r.bottom - pageRect.y));
+    var bounds = viewport.convertToViewportRectangle(selected);
+    var height = Math.abs(bounds[1] - bounds[3])
+    var left = Math.min(bounds[0], bounds[2])
+    var top = Math.min(bounds[1], bounds[3])
+    var width = Math.abs(bounds[0] - bounds[2])
+    var text = document.getElementsByClassName("highlight selected")[0].firstChild.textContent;
+    // console.log('left:' + Math.min(bounds[0], bounds[2]) + ' top:' + Math.min(bounds[1], bounds[3]) + ' width:' + Math.abs(bounds[0] - bounds[2]) + ' height:' + Math.abs(bounds[1] - bounds[3]));
 
-  param.addHighlight(window.PdfViewer.viewer.pdfDocument, highlight);
+
+    console.log(height, left, top, width);
+
+    var highlight = {
+      "content": {
+        "text": text
+      },
+      "position": {
+        "boundingRect": {
+          "x1": left,
+          "y1": top,
+          "x2": left + width,
+          "y2": top + height,
+          "width": pageRect.width,
+          "height": pageRect.height
+        },
+        "rects": [{
+          "x1": left,
+          "y1": top,
+          "x2": left + width,
+          "y2": top + height,
+          "width": pageRect.width,
+          "height": pageRect.height
+        }],
+        "pageNumber": pageIndex + 1,
+      },
+      "comment": {
+          "text": $("#entities")[0][$("#entities")[0].selectedIndex].value,
+          "relationship": ""
+        }
+    }
+
+    console.log(highlight);
+
+    param.addHighlight(window.PdfViewer.viewer.pdfDocument, highlight);
+    }
+  
 }
 
 function delay(time) {

@@ -1,19 +1,4 @@
-
-# NodeJS and Yarn Requirement
-NodeJS: https://nodejs.org/
-Yarn: https://yarnpkg.com/
-
-# Download devDependencies
-`yarn`
-
-# Run
-`yarn start`
-
-# Package
-`yarn package`
-
-
-# Statement of Need
+# PEAT
 
 PEAT is a portable, standalone application built off the Electron software framework and can be used on all major operating systems (Windows, Linux, and Macintosh) and provides an interface for users to annotate PDFs.  
 
@@ -23,9 +8,9 @@ The application allows users to load PDFs directly from their file system along 
 
 # User Guide
 
-January 2023
+January 2024
 
-Version 1.0.1
+Version 1.0.2
 
 ![colorful abstract painting](./media/image1.jpg)
 
@@ -47,6 +32,9 @@ Version 1.0.1
 
   01/24/2023              1.0.1                   Updated to release PEAT
                                                   1.0.1
+  
+  02/12/2024              1.0.2                   Updated Linux/Mac OSX
+                                                  install instructions.
   ---------------------------------------------------------------------
 
 # 1 Installation
@@ -92,6 +80,31 @@ folder) and click *Load*
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
+
+## 1.2 Installation Linux/Mac
+
+1.  Clone the repo
+`git clone https://github.com/USEPA/peat.git`
+
+2. Install and download the following prerequisites.
+
+NodeJS: https://nodejs.org/
+Yarn: https://yarnpkg.com/
+
+3. In the PEAT directory run yarn to download the depdencies.
+
+`yarn`
+
+4. Run the application
+
+`yarn start`
+
+## 1.3 Packageing
+1. In order to build a standalone application for you system run.
+
+`yarn package`
+
+This will create a release folder providing multiple application versions.
 
 # 2 Application
 
@@ -281,3 +294,16 @@ matches found in the document.
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
+
+# Contributing
+There are many ways you can contribute to PEAT, such as:
+
+* Reporting bugs or suggesting enhancements
+* Improving the documentation or the user interface
+* Adding new features or functionalities
+* Writing tests or fixing issues
+* Reviewing or commenting on pull requests or issues
+
+To get started, you will need to fork the PEAT repository and clone it to your local machine. You will also need to install Node.js and Yarn to run and build the application. Please follow the instructions in the README file for more details.
+
+If you encounter a bug or have a suggestion for an enhancement, please open an issue on git. Please provide as much information as possible to help us reproduce and resolve the issue. Please also check if there are any existing issues or pull requests that are similar to yours before opening a new one.

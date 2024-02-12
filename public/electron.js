@@ -17,7 +17,7 @@ var inFileName = "";
 
 function createWindow() {
     // Create the browser window.
-    mainWindow = new BrowserWindow({width: 1024, height: 768, icon: path.join(__dirname, 'icon.png'), webPreferences: { nodeIntegration: true, webSecurity: false }});
+    mainWindow = new BrowserWindow({width: 1024, height: 768, icon: path.join(__dirname, 'icon.png'), webPreferences: { nodeIntegration: true, webSecurity: false, contextIsolation: false }});
 
 
     // and load the index.html of the app.

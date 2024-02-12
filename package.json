@@ -1,14 +1,15 @@
 {
   "name": "PEAT",
   "productName": "PEAT",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "PDF Entity Annotation Tool",
   "private": true,
   "devDependencies": {
-    "electron": "^11.0.1",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "electron": "^27.1.0",
     "electron-builder": "^23.0.2",
-    "foreman": "^2.0.0",
-    "jest-puppeteer": "^4.4.0",
+    "foreman": "^3.0.1",
+    "jest-puppeteer": "^9.0.1",
     "puppeteer": "^2.0.0",
     "typescript": "^3.9.7"
   },
