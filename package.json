@@ -11,7 +11,8 @@
     "foreman": "^3.0.1",
     "jest-puppeteer": "^9.0.1",
     "puppeteer": "^2.0.0",
-    "typescript": "^3.9.7"
+    "typescript": "^3.9.7",
+    "cross-env": "^7.0.3"
   },
   "dependencies": {
     "@eastdesire/jscolor": "^2.4.5",
@@ -96,7 +97,7 @@
     "eject": "react-scripts eject",
     "electron": "electron .",
     "electron-start": "node src/electron-wait-react",
-    "react-start": "BROWSER=none react-scripts start",
+    "react-start": "npx cross-env BROWSER=none react-scripts start",
     "package": "yarn build && electron-builder build --publish never",
     "package-all": "yarn build && electron-builder build -mwl",
     "package-mac": "yarn build && electron-builder build --mac",
