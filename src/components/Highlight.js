@@ -9,36 +9,29 @@ class Highlight extends Component {
       onMouseOver,
       onMouseOut,
       comment,
-      isScrolledTo
+      isScrolledTo,
     } = this.props;
-    const {
-      rects,
-      boundingRect
-    } = position;
-    return React.createElement("div", {
-      className: `Highlight ${isScrolledTo ? "Highlight--scrolledTo" : ""}`
-    }, //comment ? React.createElement("div", {
-    //  className: "Highlight__relationship",
-    //  style: {
-    //    left: 20,
-    //    top: boundingRect.top
-    //  }
-    //}, comment.relationship) : null, React.createElement("div", {
-    //  className: `Highlight__parts`
-    //},
+    const { rects, boundingRect } = position;
+    return React.createElement(
+      "div",
+      {
+        className: `Highlight ${isScrolledTo ? "Highlight--scrolledTo" : ""}`,
+      }, 
 
-     rects.map((rect, index) => React.createElement("div", {
-      onMouseOver: onMouseOver,
-      onMouseOut: onMouseOut,
-      onClick: onClick,
-      key: index,
-      style: rect,
-      className: `Highlight__part`,
-      //background: "black",
-      id: comment.text}
-    )));
+      rects.map((rect, index) =>
+        React.createElement("div", {
+          onMouseOver: onMouseOver,
+          onMouseOut: onMouseOut,
+          onClick: onClick,
+          key: index,
+          style: rect,
+          className: `Highlight__part`,
+          //background: "black",
+          id: comment.text,
+        })
+      )
+    );
   }
-
 }
 
 export default Highlight;

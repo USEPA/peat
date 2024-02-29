@@ -1,10 +1,10 @@
 module.exports = {
   launch: {
-    headless: true
+    headless: true,
   },
   server: {
     command: "npm start",
     port: 3000,
-    launchTimeout: 10000
-  }
+    launchTimeout: 10000,
+  },
 };

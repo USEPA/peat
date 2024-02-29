@@ -3,13 +3,13 @@ import optimizeClientRects from "./optimize-client-rects";
 const getClientRects = (range, containerEl, shouldOptimize = true) => {
   let clientRects = Array.from(range.getClientRects());
   const offset = containerEl.getBoundingClientRect();
-  const rects = clientRects.map(rect => {
+  const rects = clientRects.map((rect) => {
     return {
       top: rect.top + containerEl.scrollTop - offset.top,
       left: rect.left + containerEl.scrollLeft - offset.left,
       width: rect.width,
       height: rect.height,
-      background: "pink"
+      background: "pink",
     };
   });
   return shouldOptimize ? optimizeClientRects(rects) : rects;

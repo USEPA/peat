@@ -1,4 +1,4 @@
-export const getPageFromElement = target => {
+export const getPageFromElement = (target) => {
   const node = target.closest(".page");
 
   if (!(node instanceof HTMLElement)) {
@@ -8,10 +8,10 @@ export const getPageFromElement = target => {
   const number = Number(node.dataset.pageNumber);
   return {
     node,
-    number
+    number,
   };
 };
-export const getPageFromRange = range => {
+export const getPageFromRange = (range) => {
   const parentElement = range.startContainer.parentElement;
 
   if (!(parentElement instanceof HTMLElement)) {

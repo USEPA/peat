@@ -6,39 +6,10 @@ PEAT was designed to take advantage of the latest advancements in PDF text extra
 
 The application allows users to load PDFs directly from their file system along with data annotation forms with standard or customizable annotation types, labels, entities, and other features such as custom color highlighting. The application also includes features for users to edit and import/export data extraction schemas, export annotations of X and Y PDF coordinal structure (based on the image layer of the PDF), search and manipulate annotations, and save/load progress. Once a user has completed document annotation, the labeled data, full text, and all associated metadata is exportable in JSON format that can be processed by a variety of NLP model building applications such as Spacy or PyTorch.
 
-# User Guide
 
-January 2024
-
-Version 1.0.2
-
-![colorful abstract painting](./media/image1.jpg)
-
-# Document Revision
-
-  ---------------------------------------------------------------------
-  Date                    Version Number          Document Changes
-
-  01/05/2021              0.1.0                   Initial draft
-
-  07/20/2021              0.1.1                   Updated to beta PEAT
-                                                  0.1.1
-
-  09/29/2021              0.1.2                   Update to beta PEAT
-                                                  0.1.2
-
-  05/10/2022              0.1.3                   Update to beta PEAT
-                                                  0.1.3
-
-  01/24/2023              1.0.1                   Updated to release PEAT
-                                                  1.0.1
-  
-  02/12/2024              1.0.2                   Updated Linux/Mac OSX
-                                                  install instructions.
-  ---------------------------------------------------------------------
-
-# 1 Installation
-## 1.1 Installation Windows
+# Installation
+<details>
+<summary>Windows</summary>
 
 1\. Download latest version from (PEAT_1.1.0)
 
@@ -80,8 +51,10 @@ folder) and click *Load*
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
+</details>
 
-## 1.2 Installation Linux/Mac
+<details>
+<summary>Linux/Mac</summary>
 
 1.  Clone the repo
 `git clone https://github.com/USEPA/peat.git`
@@ -106,9 +79,13 @@ Yarn: https://yarnpkg.com/
 
 This will create a release folder providing multiple application versions.
 
-# 2 Application
+</details>
+</br>
 
-## 2.0 Load PDF
+# Application Usage
+
+<details>
+<summary>Load PDF</summary>
 
 1.  Click *File* in the menu bar and select *Load PDF*.
 
@@ -133,8 +110,10 @@ This will create a release folder providing multiple application versions.
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
+</details>
 
-## 2.1 Annotate PDF
+<details>
+<summary>Annotate PDF</summary>
 
 1.  Highlight text you wish to annotate and select *Add Annotation*.
 
@@ -167,8 +146,10 @@ This will create a release folder providing multiple application versions.
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
+</details>
 
-## 2.4 Save Annotations
+<details>
+<summary>Save Annotations</summary>
 
 1.  Click *File* in the menu bar and select *Save Annotations*.
 
@@ -187,9 +168,10 @@ This will create a release folder providing multiple application versions.
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
+</details>
 
-## 2.5 Load Annotations
-
+<details>
+<summary>Load Annotations</summary>
 1.  Click *File* in the menu bar and select *Load Annotations*.
 
   -----------------------------------------------------------------------
@@ -214,9 +196,10 @@ This will create a release folder providing multiple application versions.
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
+</details>
 
-## 2.6 Delete Annotations
-
+<details>
+<summary>Delete Annotations</summary>
 1\. Select annotation you wish to delete from the table in the side bar.
 
   -----------------------------------------------------------------------
@@ -234,9 +217,10 @@ This will create a release folder providing multiple application versions.
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
+</details>
 
-## 2.6 Edit Schema
-
+<details>
+<summary>Edit Schema</summary>
 1\. Click *Edit Schema* hyper-link
 
   -----------------------------------------------------------------------
@@ -262,8 +246,10 @@ This will create a release folder providing multiple application versions.
 
     -   Click the Save button.
 
-## 2.7 Auto Annotation
+</details>
 
+<details>
+<summary>Auto Annotation</summary>
 1\. Type word or phrase to be searched for in *Find in document* search
 bar
 
@@ -294,6 +280,8 @@ matches found in the document.
   -----------------------------------------------------------------------
 
   -----------------------------------------------------------------------
+</details>
+</br>
 
 # Contributing
 There are many ways you can contribute to PEAT, such as:

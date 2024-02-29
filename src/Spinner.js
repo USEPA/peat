@@ -8,7 +8,7 @@ export default () => {
       style={{
         display: "flex",
         alignItems: "center",
-        height: "100vh"
+        height: "100vh",
       }}
     >
       <div className="sk-fading-circle">

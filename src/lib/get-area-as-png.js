@@ -1,10 +1,5 @@
 const getAreaAsPNG = (canvas, position) => {
-  const {
-    left,
-    top,
-    width,
-    height
-  } = position; // @TODO: cache this?
+  const { left, top, width, height } = position; // @TODO: cache this?
 
   const newCanvas = document.createElement("canvas");
 
@@ -21,7 +16,17 @@ const getAreaAsPNG = (canvas, position) => {
   }
 
   const dpr = window.devicePixelRatio;
-  newCanvasContext.drawImage(canvas, left * dpr, top * dpr, width * dpr, height * dpr, 0, 0, width, height);
+  newCanvasContext.drawImage(
+    canvas,
+    left * dpr,
+    top * dpr,
+    width * dpr,
+    height * dpr,
+    0,
+    0,
+    width,
+    height
+  );
   return newCanvas.toDataURL("image/png");
 };
 

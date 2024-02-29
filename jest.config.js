@@ -3,7 +3,7 @@ module.exports = {
   preset: "jest-puppeteer",
   resolve: {
     alias: {
-        path: require.resolve("path-browserify")
-    }
-  }
+      path: require.resolve("path-browserify"),
+    },
+  },
 };

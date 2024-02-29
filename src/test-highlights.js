@@ -2,7 +2,7 @@ const testHighlights = {
   "./AdobePDF.pdf": [
     {
       content: {
-        text: ""
+        text: "",
       },
       position: {
         boundingRect: {
@@ -11,7 +11,7 @@ const testHighlights = {
           x2: 574.372314453125,
           y2: 165.140625,
           width: 809.9999999999999,
-          height: 1200
+          height: 1200,
         },
         rects: [
           {
@@ -21,17 +21,17 @@ const testHighlights = {
             y2: 165.140625,
             width: 809.9999999999999,
             height: 1200,
-            background: "white"
-          }
+            background: "white",
+          },
         ],
-        pageNumber: 1
+        pageNumber: 1,
       },
       comment: {
-        text: ""
+        text: "",
       },
-      id: "8245652131754351"
-    }
-  ]
+      id: "8245652131754351",
+    },
+  ],
 };
 
 export default testHighlights;

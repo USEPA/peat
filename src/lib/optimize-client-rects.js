@@ -1,18 +1,24 @@
-const sort = rects => rects.sort((A, B) => {
-  const top = A.top - B.top;
+const sort = (rects) =>
+  rects.sort((A, B) => {
+    const top = A.top - B.top;
 
-  if (top === 0) {
-    return A.left - B.left;
-  }
+    if (top === 0) {
+      return A.left - B.left;
+    }
 
-  return top;
-});
+    return top;
+  });
 
 const overlaps = (A, B) => A.left <= B.left && B.left <= A.left + A.width;
 
-const sameLine = (A, B, yMargin = 5) => Math.abs(A.top - B.top) < yMargin && Math.abs(A.height - B.height) < yMargin;
+const sameLine = (A, B, yMargin = 5) =>
+  Math.abs(A.top - B.top) < yMargin && Math.abs(A.height - B.height) < yMargin;
 
-const inside = (A, B) => A.top > B.top && A.left > B.left && A.top + A.height < B.top + B.height && A.left + A.width < B.left + B.width;
+const inside = (A, B) =>
+  A.top > B.top &&
+  A.left > B.left &&
+  A.top + A.height < B.top + B.height &&
+  A.left + A.width < B.left + B.width;
 
 const nextTo = (A, B, xMargin = 10) => {
   const Aright = A.left + A.width;
@@ -25,19 +31,19 @@ const extendWidth = (A, B) => {
   A.width = Math.max(B.width - A.left + B.left, A.width);
 };
 
-const optimizeClientRects = clientRects => {
+const optimizeClientRects = (clientRects) => {
   const rects = sort(clientRects);
   const toRemove = new Set();
-  const firstPass = rects.filter(rect => {
-    return rects.every(otherRect => {
+  const firstPass = rects.filter((rect) => {
+    return rects.every((otherRect) => {
       return !inside(rect, otherRect);
     });
   });
   let passCount = 0;
 
   while (passCount <= 2) {
-    firstPass.forEach(A => {
-      firstPass.forEach(B => {
+    firstPass.forEach((A) => {
+      firstPass.forEach((B) => {
         if (A === B || toRemove.has(A) || toRemove.has(B)) {
           return;
         }
@@ -61,7 +67,7 @@ const optimizeClientRects = clientRects => {
     passCount += 1;
   }
 
-  return firstPass.filter(rect => !toRemove.has(rect));
+  return firstPass.filter((rect) => !toRemove.has(rect));
 };
 
 export default optimizeClientRects;
