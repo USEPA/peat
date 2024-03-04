@@ -118,7 +118,7 @@ function Sidebar({
 
   // Highlight Sorting Logic
   myMap = myMap.sort((a, b) =>
-    a[0].comment.text > b[0].comment.text ? 1 : -1
+    a[0].comment.text > b[0].comment.text ? 1 : -1,
   );
   t.clear();
   // t2.clear();
@@ -191,7 +191,7 @@ function Sidebar({
                       onClick={() => {
                         annoEdit(
                           message.id,
-                          jQuery("#annoEditSel" + message.id).val()
+                          jQuery("#annoEditSel" + message.id).val(),
                         );
                         jQuery(`#editAnnoModal${message.id}`).modal("hide");
                       }}
@@ -275,7 +275,7 @@ function Sidebar({
                         message.comment.text,
                         message.position.pageNumber,
                         `${message.userName}`,
-                        message.id
+                        message.id,
                       )}
                     </div>
                   </div>
@@ -342,7 +342,7 @@ function Sidebar({
                                     document
                                       .getElementById("tagcolor" + cpindex)
                                       .jscolor.fromString(e.color);
-                                  }
+                                  },
                                 );
                                 openSchema(tempdtags);
                                 jscolor.install();

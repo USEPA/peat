@@ -148,7 +148,7 @@ class MouseSelection extends Component {
               onSelection(startTarget, boundingRect, that.reset);
               onDragEnd();
             }
-          }
+          },
         );
       };
 
@@ -175,7 +175,7 @@ class MouseSelection extends Component {
             className: "MouseSelection",
             style: this.getBoundingRect(start, end),
           })
-        : null
+        : null,
     );
   }
 }

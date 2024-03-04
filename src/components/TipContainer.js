@@ -54,7 +54,7 @@ class TipContainer extends Component {
     const left = clamp(
       style.left - width / 2,
       0,
-      pageBoundingRect.width - width
+      pageBoundingRect.width - width,
     );
     const childrenWithProps = React.Children.map(children, (child) =>
       React.cloneElement(child, {
@@ -66,13 +66,13 @@ class TipContainer extends Component {
             },
             () => {
               setTimeout(this.updatePosition, 0);
-            }
+            },
           );
         },
         popup: {
           position: shouldMove ? "below" : "above",
         },
-      })
+      }),
     );
     return React.createElement(
       "div",
@@ -85,7 +85,7 @@ class TipContainer extends Component {
         },
         ref: "container",
       },
-      childrenWithProps
+      childrenWithProps,
     );
   }
 }

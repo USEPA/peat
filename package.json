@@ -6,13 +6,14 @@
   "private": true,
   "devDependencies": {
     "@babel/plugin-proposal-private-property-in-object": "^7.21.11",
+    "cross-env": "^7.0.3",
     "electron": "^27.1.0",
     "electron-builder": "^23.0.2",
     "foreman": "^3.0.1",
     "jest-puppeteer": "^9.0.1",
+    "prettier": "^3.2.5",
     "puppeteer": "^2.0.0",
-    "typescript": "^3.9.7",
-    "cross-env": "^7.0.3"
+    "typescript": "^3.9.7"
   },
   "dependencies": {
     "@eastdesire/jscolor": "^2.4.5",
@@ -97,6 +98,7 @@
     "eject": "react-scripts eject",
     "electron": "electron .",
     "electron-start": "node src/electron-wait-react",
+    "format": "npx prettier --write .",
     "react-start": "npx cross-env BROWSER=none react-scripts start",
     "package": "yarn build && electron-builder build --publish never",
     "package-all": "yarn build && electron-builder build -mwl",

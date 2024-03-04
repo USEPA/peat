@@ -91,7 +91,7 @@ function findAnnotate(param) {
     var selected = viewport
       .convertToPdfPoint(r.left - pageRect.x, r.top - pageRect.y)
       .concat(
-        viewport.convertToPdfPoint(r.right - pageRect.x, r.bottom - pageRect.y)
+        viewport.convertToPdfPoint(r.right - pageRect.x, r.bottom - pageRect.y),
       );
     var bounds = viewport.convertToViewportRectangle(selected);
     var height = Math.abs(bounds[1] - bounds[3]);
@@ -221,7 +221,7 @@ function gettext(pdfDocument) {
               })
               .join(""); // value page text
           });
-        })
+        }),
       );
     }
     // Wait for all pages and join text
@@ -371,7 +371,7 @@ class App extends Component<Props, State> {
     window.addEventListener(
       "hashchange",
       this.scrollToHighlightFromHash,
-      false
+      false,
     );
 
     if (this.state.url == DEFAULT_URL) {
@@ -624,18 +624,18 @@ class App extends Component<Props, State> {
                 var curr_highlights =
                   document.getElementsByClassName("Highlight__part");
                 var item_x1 = Math.trunc(
-                  editedh[index].position.boundingRect.x1
+                  editedh[index].position.boundingRect.x1,
                 );
                 var item_y1 = Math.trunc(
-                  editedh[index].position.boundingRect.y1
+                  editedh[index].position.boundingRect.y1,
                 );
                 if (editedh[index].position.rects.length == 1) {
                   for (var i = 0; i < curr_highlights.length; i++) {
                     var highlight_x1 = Math.trunc(
-                      curr_highlights[i].style.left.slice(0, -2)
+                      curr_highlights[i].style.left.slice(0, -2),
                     );
                     var highlight_y1 = Math.trunc(
-                      curr_highlights[i].style.top.slice(0, -2)
+                      curr_highlights[i].style.top.slice(0, -2),
                     );
 
                     if (highlight_x1 == item_x1 && highlight_y1 == item_y1) {
@@ -648,10 +648,10 @@ class App extends Component<Props, State> {
                       var multi_item_x1 = Math.trunc(item.x1);
                       var multi_item_y1 = Math.trunc(item.y1);
                       var highlight_x1 = Math.trunc(
-                        curr_highlights[i].style.left.slice(0, -2)
+                        curr_highlights[i].style.left.slice(0, -2),
                       );
                       var highlight_y1 = Math.trunc(
-                        curr_highlights[i].style.top.slice(0, -2)
+                        curr_highlights[i].style.top.slice(0, -2),
                       );
 
                       if (
@@ -816,9 +816,10 @@ class App extends Component<Props, State> {
                         <button
                           class="btn btn-secondary btn-sm"
                           onClick={async () => {
-                            const result = await electron.ipcRenderer.invoke(
-                              "openPDFFileDialog"
-                            );
+                            const result =
+                              await electron.ipcRenderer.invoke(
+                                "openPDFFileDialog",
+                              );
                             $("#pdf-url").attr("value", result);
                           }}
                         >
@@ -840,7 +841,7 @@ class App extends Component<Props, State> {
                           class="btn btn-secondary btn-sm"
                           onClick={async () => {
                             const result = await electron.ipcRenderer.invoke(
-                              "openSchemaFileDialog"
+                              "openSchemaFileDialog",
                             );
                             $("#schema-url").attr("value", result);
                             if (result)
@@ -874,7 +875,7 @@ class App extends Component<Props, State> {
                             const result = await electron.ipcRenderer.invoke(
                               "openPDF",
                               $("#pdf-url").val(),
-                              $("#schema-url").val()
+                              $("#schema-url").val(),
                             );
                             $("#loadModal").modal("hide");
                           }}
@@ -985,7 +986,7 @@ class App extends Component<Props, State> {
                   position,
                   content,
                   hideTipAndSelection,
-                  transformSelection
+                  transformSelection,
                 ) => (
                   <Tip
                     tags={this.state.tags}
@@ -1008,17 +1009,17 @@ class App extends Component<Props, State> {
                   hideTip,
                   viewportToScaled,
                   screenshot,
-                  isScrolledTo
+                  isScrolledTo,
                 ) => {
                   const isTextHighlight = !Boolean(
-                    highlight.content && highlight.content.image
+                    highlight.content && highlight.content.image,
                   );
 
                   ipcRenderer.on(
                     "file-opened",
                     (event, file, content, highlights) => {
                       this.openPDF(highlights, file, content);
-                    }
+                    },
                   );
                   ipcRenderer.on(
                     "annot-opened",
@@ -1036,7 +1037,7 @@ class App extends Component<Props, State> {
                               function (ptext) {
                                 if (
                                   confirm(
-                                    "Loading annotation file will override all current annotations, are you sure?"
+                                    "Loading annotation file will override all current annotations, are you sure?",
                                   )
                                 ) {
                                   // Save it!
@@ -1044,7 +1045,7 @@ class App extends Component<Props, State> {
                                     this.openAnnot(highlights);
                                   } else {
                                     alert(
-                                      "Error: Cannot load annotation file - PDF file mismatch"
+                                      "Error: Cannot load annotation file - PDF file mismatch",
                                     );
                                   }
                                 } else {
@@ -1052,11 +1053,11 @@ class App extends Component<Props, State> {
                                   console.log("Annotations not loaded.");
                                   return;
                                 }
-                              }.bind(this)
+                              }.bind(this),
                             );
-                          }.bind(this)
+                          }.bind(this),
                         );
-                    }
+                    },
                   );
                   ipcRenderer.on("schema-file-opened", (event, content) => {
                     this.openSchema(content);
@@ -1100,7 +1101,7 @@ class App extends Component<Props, State> {
                             JSON.stringify(jsonT),
                             function (err) {
                               if (err) throw err;
-                            }
+                            },
                           );
                         });
                       });
@@ -1126,7 +1127,7 @@ class App extends Component<Props, State> {
                             JSON.stringify(schema),
                             function (err) {
                               if (err) throw err;
-                            }
+                            },
                           );
                         });
                       });
@@ -1146,7 +1147,7 @@ class App extends Component<Props, State> {
                           this.updateHighlight(
                             highlight.id,
                             { boundingRect: viewportToScaled(boundingRect) },
-                            { image: screenshot(boundingRect) }
+                            { image: screenshot(boundingRect) },
                           );
                         }}
                       />
@@ -1160,7 +1161,7 @@ class App extends Component<Props, State> {
                           } else {
                             cur_highlgiht_id = highlight.id;
                             jQuery(`#editAnnoModal${highlight.id}`).modal(
-                              "show"
+                              "show",
                             );
                           }
                         }}

@@ -1,246 +1,282 @@
 {
-	"text": "BLOODCOMPONENTS Coagulation function in fresh-frozen plasma prepared with two photochemical treatment methods: methylene blue and amotosalen Jean-Claude Osselaer, Cécile Debry, Maite Goffaux, Jacqueline Pineau, Genevieve Calomme, Eric Dubuc, Bernard Chatelain, Marie-Claire Vandendaele, Jocelyn Hsu, Margaret Rheinschmidt, and Lily Lin BACKGROUND: Pathogen inactivation of plasma intended for transfusion is now the standard of care in Belgium. Two methods for treatment of single plasma units are available: amotosalen plus ultraviolet A light and methylene blue plus visible light. This study com- pared the quality and stability of plasma treated with these two methods. STUDY DESIGN AND METHODS: Plasma units made from a pool of two ABO-matched fresh apheresis units were photochemically treated with either amotosalen (PCT-FFP) or methylene blue (MB-FFP). A total of 12 paired samples were evaluated. Plasma coagulation function was assessed at three time points: immediately after treatment, after 30 days of frozen storage, and an additional 24 hours at 4°C after thawing. Comparison between PCT-FFP and MB-FFP was assessed with the paired t test an d a p value of less than 0.05 indicated statistical significance. RESULTS: Based on statistical analysis, mean levels of factor (F)II, FXII, FXIII, von Willebrand antigen, ADAMTS-13, D-dimers, and protein C were equivalent between PCT-FFP and MB-FFP for all three time points. PCT-FFP exhibited shorter mean prothrombin time, activated partial thromboplastin time (two time points), and thrombin time and higher mean levels of fibrinogen, FXI, and protein S than MB-FFP. Retention of FV, FVII, FVIII, FX, or von Willebrand factor:ristocetin cofactor in PCT-FFP was either equivalent to or higher than MB-FFP. MB-FFP contained higher mean levels of plasminogen, antithrombin, and plasmin inhibitor than PCT-FFP. Retention of F IX in MB-FFP was higher than PCT-FFP only after the 4°C storage after thawing. CONCLUSION: There is adequate preservation of therapeutic coagulation factor activities in both PCT- FFP and MB-FFP. The overall coagulation factor levels and stability of PCT-FFP were better preserved than MB-FFP. T he  residual  risk  of  selected  transfusion- transmitted infections and the concerns about emerging  pathogens  have  prompted  some European  countries  to  mandate  additional practices for plasma. In Belgium, in addition to manda- tory testing for a number of pathogens known to be trans- mitted by transfusion, pathogen inactivation of plasma intended for transfusion is now the standard of care. Since 2004, all individual therapeutic plasma units in Belgium have been treated with a disposable set for treatment of plasma (Theraflex, MacoPharma, Mouvaux, France), which utilizes methylene blue (MB) and visible light to inactivate viruses in plasma. 1 A new pathogen inactivation ABBREVIATIONS: aPTT = activated partial thromboplastin time; MB-FFP = fresh-frozen plasma treated with the methylene blue method; PCT = photochemical treatment; PCT-FFP = fresh- frozen plasma treated with the amotosalen photochemical method; a 2PI =a 2 plasmin inhibitor; PT = prothrombin time; TT = thrombin time; TTP = thrombotic thrombocytopenic purpura; VWAg = von Willebrand antigen; VWcoR = von Willebrand factor:ristocetin cofactor. From the Blood Transfusion Center and Laboratory of Hematol- ogy, Cliniques Universitaires de Mont Godinne, Université Catholique de Louvain, Yvoir, Belgium; the Blood Transfusion Center Charleroi, Charleroi, Belgium; and Cerus Corp., Concord, California. Address reprint requests to: Jean-Claude Osselaer, MD, JD, Cliniques Universitaires U.C.L. Yvoir, 1, avenue Thérasse, 5530 Yvoir, Belgium; e-mail: jean-claude.osselaer@sang.ucl.ac.be. This study was supported in part by Cerus Corp. Three authors (JH, MR, LL) were affiliated with and held stock or stock options of Cerus Corp. during the conduct of this study. Received for publication April 12, 2007; revision received June 12, 2007, and accepted June 15, 2007. doi: 10.1111/j.1537-2995.2007.01488.x. TRANSFUSION 2008;48:108-117. 108    TRANSFUSION Volume 48, January 2008 system (the INTERCEPT Blood System, Cerus Europe BV, Leusden, Netherlands), which uses amotosalen and ultra- violet A (UVA) light to photochemically (PCT) inactivate viruses, bacteria, parasites, and white blood cells (WBCs) in platelets (PLTs), and plasma, has received CE Mark registration and is now available in Europe. 2-5 These two technologies differ in their mechanism of action. The MB system is based on the production of non- specific singlet oxygen. Visible light catalyzes the forma- tion of reactive oxygen radical species, especially singlet oxygen via energy transfer, resulting primarily in gua- nosine oxidation and depurination. This photodynamic reaction is nonspecific, and singlet oxygen can diffuse and react indiscriminately with proteins, lipids, and nucleic acids. 6 The PCT system is based on the specific photo- chemical reaction of amotosalen and UVA light with nucleic acid. 4 Amotosalen molecules reversibly intercalate into the helical regions of DNA and RNA. Upon illumina- tion with UVA light, intercalated amotosalen molecules form irreversible covalent bonds with pyrimidine bases present in DNA or RNA. Because of the nucleic acid reaction specificity, amotosalen–protein interaction is minimal. 7 The PCT system has shown inactivation of high levels of a broad spectrum of bacteria, 2 viruses, 3 and parasites. 8-10 The MB system has also demonstrated the ability to inactivate a broad range of enveloped viruses 1 and some parasites. 11 The photodynamic effect of the MB system is not effective for inactivation of bacteria, cell-associated viruses, or WBCs. 12 The plasma filtration and/or freeze-thaw step incorporated into the MB system reduces the levels of contaminating WBCs and the associ- ated viruses. The PCT system for PLTs was introduced into Europe in 2003 and has been used on a routine basis in the Blood Transfusion Center of Mont Godinne since October 2003. With the recent introduction of the PCT system for plasma, there is now an alternative to the MB system for pathogen inactivation of plasma. As part of the decision process to evaluate new technology, we designed a study to assess and compare the in vitro coagulation factor activity, recovery, and stability after treatment with the PCT system and the MB system with matched plasma units. To our knowledge this is the first direct comparison between these two pathogen inactivation methods. MATERIALS AND METHODS Plasma collection and processing Twenty-four units of apheresis plasma (500-600 mL) were collected  from  volunteer  donors  by  plasmapheresis with an automated blood cell separator (Autopheresis-C, Baxter Healthcare Corp., Deerfield, IL) for 12 replicate experiments. Citrate anticoagulant was used at a ratio of 1:16. Donors with blood groups A, B, and O were repre- sented in the study population. For each replicate experi- ment, two ABO-matched apheresis plasma units were pooled and divided into 3 units containing different volumes of identical plasma. A volume of 200 mL was used for the untreated control. A volume of 235 to 315 mL was transferred to a plasma container for the fresh-frozen plasma treated with the methylene blue method (MB- FFP) study arm, and a volume of 435 to 635 mL was trans- ferred to a plasma container for the fresh-frozen plasma treated with the amotosalen photochemical method (PCT-FFP) study arm. Different volumes were used in the two methods. In routine use, individual whole blood– derived plasma units (235-315 mL) are treated with the MB process whereas apheresis plasma units or pooled whole blood–derived plasma units (435-635 mL) are treated with the PCT process. PCT-FFP processing disposable sets The PCT-FFP disposable set for treatment of plasma (Code INT310X, Cerus Europe BV) consisted of the following sequentially integrated components: 15 mL of 6 mmol per L amotosalen hydrochloride solution in saline packaged inside a plastic container (PL-2411, Baxter Healthcare Corp.) and protected from UVA light; a 1.3-L plastic con- tainer (PL-2410, Baxter Healthcare Corp.) for illumination of plasma; a flow compound adsorption device (CAD) to reduce the concentration of amotosalen and free photo- products consisting of an adsorbent disk composed of a copolymer of polystyrene and divinylbenzene particles fused with an ultrahigh-molecular-weight polyethylene plastic enclosed in an acrylic housing; and three 400-mL plastic containers (PL-269, Baxter Healthcare Corp.) for storage of the treated plasma. Amotosalen-UVA process and UVA illumination device Each plasma unit with a volume ranging from 435 to 635 mL was treated with a single PCT-FFP processing set and resulted in 2 to 3 plasma units of approximately 200 mL. The manufacturer’s instructions for processing were followed. Briefly, the plasma unit was sterile con- nected to the amotosalen container and the plasma content passed through the amotosalen container into the illumination container. The plasma containing amo- tosalen was illuminated with a 3 J per cm 2 UVA light treatment. The illuminated plasma mixture was passed through the compound adsorption device by gravity in approximately 20 minutes and evenly distributed into two or three storage containers. Illumination of plasma was performed in an INTER- CEPT Illuminator (Code INT100, Cerus Europe BV, for- merly known as R4R4008, Baxter Healthcare Corp.). The device was capable of illuminating 2 units of plasma (400- COMPARISON: METHYLENE BLUE AND AMOTOSALEN Volume 48, January 2008 TRANSFUSION    109 650 mL) per processing cycle. The illuminator delivered a 3 J per cm 2 UVA (320-400 nm) treatment to each plasma unit in approximately 7 to 9 minutes. During illumination, plasma units were reciprocally agitated at approximately 70 cycles per minute. MB-FFP processing disposable sets The MB-FFP disposable set for treatment of plasma (Theraflex, MacoPharma) consisted of the following inte- grated components: a PLAS 4 membrane plasma filter, a tablet of MB hydrochloride (85 m g) situated between the plasma filter and the illumination container, a plastic con- tainer (400 mL) for illumination of plasma, a MB depletion filter to reduce the concentration of MB, and a plastic container (400 mL) for storage of the treated plasma. MB process and visible light illumination device Each plasma unit with a volume ranging from 235 to 315 mL was treated with a single MB-FFP processing set and resulted in one transfusable plasma unit. The manu- facturer’s instruction for processing was followed. Briefly, the plasma unit was sterile connected to the set and the plasma content passed through the PLAS 4 membrane plasma filter to remove cellular elements. The plasma content passed through the MB dry tablet into the illumi- nation container. The plasma containing MB was illumi- nated with 180 J per cm 2 visible light. The illuminated plasma mixture was passed through the MB reduction filter by gravity into a single storage container. Illumination of plasma was performed in a commer- cially available illuminator (Maco-tronic, MacoPharma). The device was capable of illuminating 4 units of plasma per processing cycle. The illuminator delivered a 180 J per cm 2 visible light treatment to each plasma unit in approxi- mately 20 minutes. During illumination plasma units were agitated. Plasma processing after photochemical treatment The two photochemical treatments (PCTs) were per- formed concurrently while the control unit was kept at ambient temperature for the duration of the PCT process. After completion of compound reduction, plasma units for three study arms (PCT-FFP, MB-FFP, and untreated control) were processed in an identical manner. Approxi- mately 40 mL of plasma was removed from one plasma unit in each study arm. Plasma was aliquoted into polypropylene tubes and placed in a blast freezer at the same time as the plasma units. The three plasma units from each replicate experiment were frozen at the same time. All plasma units were frozen within 8 hours of collection. Units were stored frozen for 30 days at - 30°C. After 30 days, each plasma unit was thawed with a 37°C plasma warmer (DH8, Helmer, Noblesville, IN). Samples of plasma taken for analysis of coagulation function were transferred to polypropylene freezer tubes, frozen at - 30°C, and stored at - 30°C until assay. All thawed plasma units were placed into refrigerator storage (4°C) for an additional 24 hours to assess relative stability of coagulation factors after thawing to model routine clinical practice of holding thawed plasma before transfusion. Samples of plasma from thawed units were withdrawn for coagulation function analysis, transferred to polypropylene freezer tubes, frozen at - 30°C, and stored at - 30°C until assay. Measurement of in vitro coagulation function Coagulation factors for each type of plasma were mea- sured concurrently to minimize differences attributable to variability in assay conditions or substrates. Plasma samples were thawed with a 37°C water bath and assayed within 2 hours of thawing. Each sample was assayed with a comprehensive panel of coagulation tests: prothrombin time (PT; Innovin, Dade Behring, Marburg, Germany); activated partial thromboplastin time (aPTT; PTT Automote, Diagnostica Stago, Vilvoorde, Belgium); thrombin time (TT; throm- bin 10, Diagnostica Stago); fibrinogen (fibrinogen 5, Diag- nostica Stago); D-dimers (Liatest Ddi, Diagnostica Stago); antithrombin (Stachrom ATIII, Diagnostica Stago); von Willebrand antigen (VWAg; Liatest VWF, Diagnostica Stago); von Willebrand factor:ristocetin cofactor (VWcoR; BC von Willebrand reagent, Dade Behring); Factor (F)II, FV, FVII, and FX (FII-, FV-, FVII-, or FX-deficient plasma, Diagnostica Stago; Innovin, Dade Behring); FVIII, F IX, FXI, and FXII (FVIII-, F IX-, FXI-, or FXII-deficient plasma, Precision Biologic, Dartmouth, Nova Scotia, Canada; CL’prest, Diagnostica Stago); FXIII (Berichrom FXIII, Dade Behring); protein C (Coamatic protein C, Chromogenix, Milan, Italy); protein S (Liatest protein S, Diagnostica Stago); plasminogen (Stachrom plasminogen, Diagnos- tica Stago); a 2 plasmin inhibitor ( a 2PI; Stachrom anti- plasmin, Diagnostica Stago); and ADAMTS-13 activity (ATS-13, GTI Diagnostics, Waukesha, WI). All assays were performed with clinically approved methods at the clini- cal laboratory of the Blood Transfusion Center of Mont Godinne. The reference ranges for each assay are indi- cated in Table 1. Statistical analysis The mean and standard deviation (mean \u0002 SD, n = 12) were determined for each parameter. For each time point assayed, the ratio of the coagulation factor or antithrom- botic protein activity remaining after pathogen inactiva- OSSELAER ET AL. 110    TRANSFUSION Volume 48, January 2008 tion with either MB or amotosalen to the activity in the corresponding untreated control was calculated and expressed as percentage of retention. For PT, aPTT, andTT, the prolongation of the clotting time after pathogen inac- tivation relative to the corresponding untreated control was determined. Significant differences between PCT-FFP and MB-FFP were evaluated with a t test for paired samples. A p value of less than 0.05 indicated significant differences. RESULTS Apheresis collections and processing All apheresis plasma units were collected and processed without incident. Four of the 12 replicates were blood group A, 6 were blood group O, and 2 were blood group B. All units met the local requirements for red cells ( < 6 ¥ 10 9 / L), WBCs ( < 0.1 ¥ 10 9 /L), and PLTs ( < 50 ¥ 10 9 /L). Effect of pathogen inactivation on global coagulation assays The mean values of aPTT and TT for control plasma, PCT- FFP, and MB-FFP remained within the reference ranges at all three time points. The mean values of PT for MB-FFP exceeded the upper limit of the reference range (10.2 sec) by 0.1-0.3 seconds at all three time points whereas the mean PT of the control plasma samples exceeded the upper limit by 0.3 seconds only at the final time point (Table 2). The mean aPTT and TT for MB-FFP and PCT-FFP were increased over control values (Table 2). The prolon- gation was significantly shorter (p < 0.05) for PCT-FFP compared to MB-FFP at all test points for TT but only at the postthaw time point for aPTT (Table 3). The mean PT remained the same or decreased slightly for PCT-FFP whereas it increased for MB-FFP over control values after treatment and after thaw. After storage at 4°C after thawing, the mean PT of both PCT-FFP and MB-FFP decreased. The differences between PCT-FFP and MB-FFP reached significance at all three time points (p < 0.05; Table 3). Effect of pathogen inactivation on coagulation factor activity All mean values of coagulation factor levels throughout the testing periods fell within the reference ranges (Table 2). The mean fibrinogen levels were 326-333 mg per dL for PCT-FFP and 294-300 mg per dL for MB-FFP. The mean FVIII levels were 69 to 102 IU per dL for PCT-FFP and 69 to 91 IU per dL for MB-FFP. The mean retention relative to correspondingcontrolplasmawasgenerallyintherangeof 86 to 123 percent for factor activities (Table 2) with the exception for fibrinogen (79%-81% for MB-FFP) and FVIII (72%-81% for MB-FFP and 81%-83% for PCT-FFP). No significant differences were seen in the mean retention of FII, FXII, FXIII, VWAg, and ADAMTS-13 between MB-FFP and PCT-FFP at all three test points (Table 3). The mean retention of fibrinogen and FXI was significantly higher (p < 0.05) in PCT-FFP than MB-FFP at all time points. The mean retention of FV, FVII, FVIII, FX, and VWcoR in PCT-FFP was either equivalent to or higher (p < 0.05) than MB-FFP. F IX was not different between the two groups for the posttreatment and postthaw test points; however, MB-FFP exhibited a higher F IX retention (p < 0.05) than the PCT-FFP group after 24 hours of storage at 4°C after thawing. Effect of pathogen inactivation on inhibitors of coagulation The mean protein C levels ranged from 107 to 111 IU per dL for both PCT-FFP and MB-FFP throughout the testing periods (Table 2). These values were within the reference range and were not statistically different from the control values (111-112 IU/dL). The MB treatment process reduced the levels of protein S significantly compared to the PCT treatment process. The control plasma level of protein S had a mean value of 139 to 145 IU per dL. The mean protein S levels were 113 to 119 IU per dL for MB-FFP whereas the mean protein S levels were 137 to 139 IU per dL for PCT-FFP (Table 2). Even though these mean values were all within the reference range, the mean retention of protein S was significantly higher (p < 0.05) in the PCT-FFP group than the MB-FFP group at every time point (Table 3). In contrast, the levels of antithrombin were higher in MB-FFP than PCT-FFP (Table 2), although all individual TABLE 1. The reference ranges of each protein coagulation assay Assay Reference range aPTT 26-38 sec PT 8.5-10.2 sec TT 19-26 sec Fibrinogen 180-400 mg/dL D-dimers < 500 ng/mL Antithrombin 80-130 IU/dL VWAg 60-130 IU/dL VWcoR 50-150 IU/dL FII, FV, FVII, or FX 50-150 IU/dL FVIII 60-130 IU/dL FIX 60-130 IU/dL FXI 50-150 IU/dL FXII 40-150 IU/dL FXIII 50-150 IU/dL Protein C 70-120 IU/dL Protein S 65-140 IU/dL Plasminogen 80-110 IU/dL a 2PI 50-150 IU/dL ADAMTS-13 50%-150% of normal COMPARISON: METHYLENE BLUE AND AMOTOSALEN Volume 48, January 2008 TRANSFUSION    111 TABLE 2. The effect of pathogen inactivation on factors of the coagulation system immediately after treatment, after frozen storage, and after subsequent storage at 4°C (mean \u0002 SD, n = 12) Assay (T1) Immediately after treatment (T2) After frozen storage (T3) + 24 hr at 4°C after thawing Control-1* MB-FFP-1† PCT-FFP-1‡ Control-2 MB-FFP-2 PCT-FFP-2 Control-3 MB-FFP-3 PCT-FFP-3 aPTT (sec) 30.1 \u0002 1.5 31.8 \u0002 3.8 31.7 \u0002 1.6 30.0 \u0002 1.6 33.3 \u0002 2.1 32.0 \u0002 1.7‡ 31.7 \u0002 1.6 33.5 \u0002 2.6 33.7 \u0002 2.7 PT (sec) 9.9 \u0002 0.4 10.5 \u0002 0.3 9.9 \u0002 0.4‡ 10.1 \u0002 0.4 10.4 \u0002 0.5 9.9 \u0002 0.4‡ 10.5 \u0002 0.4 10.3 \u0002 1.2 9.6 \u0002 0.8‡ TT (sec) 20.8 \u0002 0.7 24.7 \u0002 1.1 22.0 \u0002 0.8‡ 21.0 \u0002 0.6 24.9 \u0002 1.1 22.1 \u0002 0.8‡ 21.1 \u0002 0.7 25.2 \u0002 1.3 22.6 \u0002 1.2‡ Fibrinogen (mg/dL) 372 \u0002 57 294 \u0002 40 330 \u0002 56‡ 373 \u0002 57 300 \u0002 45 333 \u0002 55‡ 367 \u0002 57 296 \u0002 42 326 \u0002 58‡ D-dimers (ng/mL) 323 \u0002 105 286 \u0002 80 301 \u0002 95 318 \u0002 120 301 \u0002 93 299 \u0002 83 308 \u0002 100 310 \u0002 101 315 \u0002 105 Antithrombin (IU/dL) 106 \u0002 6 108 \u0002 6† 105 \u0002 6 109 \u0002 6 108 \u0002 6† 104 \u0002 6 109 \u0002 6 108 \u0002 5† 105 \u0002 5 VWAg (IU/dL) 125 \u0002 54 121 \u0002 52 122 \u0002 52 128 \u0002 58 120 \u0002 51 121 \u0002 50 124 \u0002 53 121 \u0002 53 121 \u0002 51 VWcoR (IU/dL) 73 \u0002 33 66 \u0002 28 73 \u0002 34‡ 69 \u0002 30 64 \u0002 27 71 \u0002 35 69 \u0002 32 64 \u0002 28 70 \u0002 30‡ FII (IU/dL) 119 \u0002 9112 \u0002 10 111 \u0002 9118 \u0002 9114 \u0002 8112 \u0002 9117 \u0002 10 111 \u0002 11 111 \u0002 10 FV (IU/dL) 124 \u0002 11 115 \u0002 8 121 \u0002 11‡ 122 \u0002 13 112 \u0002 7119 \u0002 9‡ 123 \u0002 13 113 \u0002 9116 \u0002 7 FVII (IU/dL) 104 \u0002 11 107 \u0002 10 114 \u0002 14‡ 103 \u0002 10 111 \u0002 17 114 \u0002 13 93 \u0002 7 101 \u0002 14 115 \u0002 17‡ FVIII (IU/dL) 122 \u0002 30 91 \u0002 23 102 \u0002 30‡ 116 \u0002 32 82 \u0002 20 94 \u0002 27‡ 86 \u0002 26 69 \u0002 24 69 \u0002 19 F IX (IU/dL) 128 \u0002 15 115 \u0002 13 114 \u0002 18 130 \u0002 17 115 \u0002 13 112 \u0002 16 124 \u0002 17 113 \u0002 13† 109 \u0002 14 FX (IU/dL) 112 \u0002 14 105 \u0002 15 108 \u0002 14‡ 111 \u0002 13 105 \u0002 14 106 \u0002 13 110 \u0002 13 103 \u0002 14 106 \u0002 14‡ FXI (IU/dL) 114 \u0002 16 101 \u0002 19 106 \u0002 16‡ 116 \u0002 17 100 \u0002 18 106 \u0002 15‡ 112 \u0002 18 100 \u0002 20 106 \u0002 17‡ FXII (IU/dL) 110 \u0002 17 101 \u0002 17 98 \u0002 13 112 \u0002 15 101 \u0002 15 100 \u0002 14 112 \u0002 17 102 \u0002 18 98 \u0002 15 FXIII (IU/dL) 121 \u0002 21 118 \u0002 18 117 \u0002 21 123 \u0002 21 118 \u0002 18 119 \u0002 24 124 \u0002 20 119 \u0002 24 119 \u0002 25 Protein C (IU/dL) 111 \u0002 16 108 \u0002 16 107 \u0002 15 111 \u0002 15 107 \u0002 15 107 \u0002 15 112 \u0002 15 111 \u0002 16 109 \u0002 16 Protein S (IU/dL) 145 \u0002 31 113 \u0002 21 139 \u0002 28‡ 139 \u0002 28 113 \u0002 21 137 \u0002 27‡ 140 \u0002 28 119 \u0002 24 138 \u0002 27‡ Plasminogen (IU/dL) 109 \u0002 11 109 \u0002 12† 102 \u0002 11 110 \u0002 11 109 \u0002 13† 104 \u0002 10 111 \u0002 10 108 \u0002 12† 104 \u0002 12 a 2PI (IU/dL) 108 \u0002 5 101 \u0002 7† 93 \u0002 6 107 \u0002 5 102 \u0002 8† 94 \u0002 5 107 \u0002 5 101 \u0002 5† 93 \u0002 7 ADAMTS-13 (%N) 122 \u0002 14 114 \u0002 12 119 \u0002 16 119 \u0002 15 115 \u0002 17 119 \u0002 19 118 \u0002 20 118 \u0002 11 115 \u0002 19 *   Control plasma was not treated. The units for factors are as indicated. The ADAMTS-13 results are expressed as the percent of normal. The numbers (1,2 ,3) indicate the time points at which samples were taken: T1 = immediately after pathogen inactivation treatment; T2 = 30 days after frozen storage and thawed; T3 = an additional 24 hours storage at 4°C postthawing. †  MB-FFP is superior to PCT FFP. ‡  PCT FFP is superior to MB-FFP. OSSELAER ET AL. 112    TRANSFUSION Volume 48, January 2008 TABLE 3. Comparison of PCT-FFP and MB-FFP with the paired t test (n = 12) Assay PCT-FFP (mean \u0002 SD)* MB-FFP (mean \u0002 SD)* p values (PCT vs. MB)† Posttreatment/ Control 1 Postfreeze/ Control 2 + 24 hr at 4°C/ Control 3 Posttreatment/ Control 1 Postfreeze/ Control 2 + 24 hr at 4°C/ Control 3 Posttreatment/ Control 1 Postfreeze/ Control 2 + 24 hr at 4°C/ Control 3 aPTT (sec prolonged) 1.7 \u0002 1.0 2.0 \u0002 0.6 2.1 \u0002 0.9 1.7 \u0002 3.5 3.4 \u0002 0.8 1.8 \u0002 2.5 0.97 < 0.05 0.61 PT (sec prolonged) - 0.1 \u0002 0.3 - 0.2 \u0002 0.3 - 1.0 \u0002 0.8 0.5 \u0002 0.2 0.3 \u0002 0.5 - 0.3 \u0002 1.1 < 0.05 < 0.05 < 0.05 TT (sec prolonged) 1.2 \u0002 0.3 1.0 \u0002 0.5 1.6 \u0002 1.0 3.9 \u0002 0.9 3.9 \u0002 0.9 4.1 \u0002 1.2 < 0.05 < 0.05 < 0.05 Fibrinogen (%) 89 \u0002 289 \u0002 389 \u0002 579 \u0002 581 \u0002 581 \u0002 5 < 0.05 < 0.05 < 0.05 D-dimers (%) 94 \u0002 11 97 \u0002 13 103 \u0002 10 90 \u0002 997 \u0002 9 101 \u0002 14 0.18 0.89 0.78 Antithrombin (%) 99 \u0002 495 \u0002 596 \u0002 5 102 \u0002 399 \u0002 599 \u0002 5 < 0.05 < 0.05 < 0.05 VWAg (%) 98 \u0002 495 \u0002 498 \u0002 397 \u0002 394 \u0002 398 \u0002 4 0.10 0.081 0.78 VWcoR (%) 98 \u0002 8 103 \u0002 8 103 \u0002 891 \u0002 996 \u0002 11 95 \u0002 7 < 0.05 0.054 < 0.05 FII (%) 93 \u0002 495 \u0002 395 \u0002 394 \u0002 297 \u0002 295 \u0002 4 0.69 0.13 0.65 FV (%) 98 \u0002 698 \u0002 695 \u0002 793 \u0002 492 \u0002 593 \u0002 8 < 0.05 < 0.05 0.12 FVII (%) 109 \u0002 7110 \u0002 8 123 \u0002 5 103 \u0002 4 108 \u0002 22 108 \u0002 8 < 0.05 0.74 < 0.05 FVIII (%) 83 \u0002 781 \u0002 382 \u0002 775 \u0002 772 \u0002 981 \u0002 9 < 0.05 < 0.05 0.73 F IX (%) 89 \u0002 586 \u0002 588 \u0002 490 \u0002 489 \u0002 792 \u0002 7 0.36 0.16 < 0.05 FX (%) 96 \u0002 395 \u0002 396 \u0002 394 \u0002 595 \u0002 694 \u0002 3 < 0.05 0.60 < 0.05 FXI (%) 93 \u0002 691 \u0002 595 \u0002 788 \u0002 786 \u0002 989 \u0002 6 < 0.05 < 0.05 < 0.05 FXII (%) 89 \u0002 689 \u0002 488 \u0002 592 \u0002 690 \u0002 691 \u0002 5 0.11 0.34 0.087 FXIII (%) 97 \u0002 11 97 \u0002 696 \u0002 10 98 \u0002 997 \u0002 796 \u0002 7 0.74 0.93 0.88 Protein C (%) 96 \u0002 396 \u0002 398 \u0002 497 \u0002 296 \u0002 299 \u0002 5 0.52 0.77 0.27 Protein S (%) 96 \u0002 599 \u0002 599 \u0002 779 \u0002 10 82 \u0002 985 \u0002 11 < 0.05 < 0.05 < 0.05 Plasminogen (%) 94 \u0002 394 \u0002 293 \u0002 3 100 \u0002 299 \u0002 397 \u0002 3 < 0.05 < 0.05 < 0.05 a 2PI (%) 86 \u0002 488 \u0002 487 \u0002 594 \u0002 595 \u0002 494 \u0002 4 < 0.05 < 0.05 < 0.05 ADAMTS-13 (%) 97 \u0002 11 100 \u0002 798 \u0002 13 94 \u0002 10 97 \u0002 8 101 \u0002 13 0.11 0.15 0.48 *   The values are ratios of treated samples to the corresponding control samples except for the clotting times, where the values are calculated by subtr acting the control from the treated. The numbers (1, 2, 3) indicate the time points at which samples were taken: 1 = immediately after pathogen inactivation treatment; 2 = 30 days after frozen storage and thawed; 3 = an additional 24 hours storage at 4°C after thawing. †  The comparison was performed with the t test between PCT-FFP and MB-FFP. p < 0.05 indicates significant differences. COMPARISON: METHYLENE BLUE AND AMOTOSALEN Volume 48, January 2008 TRANSFUSION    113 measurements remained in the reference range. The differences in retention between MB-FFP and PCT-FFP reached significance (p < 0.05) throughout the three test time points (Table 3). Effect of pathogen inactivation on fibrinolytic proteins and thrombin activation The mean levels of plasminogen and a 2PI were higher in MB-FFP than PCT-FFP at all test times (Table 2). Even though these mean values were all within the reference range, the difference in retention between MB-FFP and PCT-FFP reached significance (p < 0.05) at every test time (Table 3). For measurements of D-dimers, there were no differences in the mean levels of D-dimers between the two study groups. DISCUSSION Pathogen inactivation of plasma intended for transfusion is now the standard of care in Belgium. Plasma treated with MB and visible light has been in clinical use since 2004. PCT with MB has been shown to inactivate a range of viruses. 1 Reported retention of the coagulation factors after treatment varied depending on the factors and among studies. Published retention values were between 61 and 79 percent for fibrinogen, 92 percent for FII, 90 and 95 percent for FV, 96 percent for FVII, 71 and 76 percent for FVIII, 89 percent for F IX, 85 percent for FX, 85 and 87 percent for FXI, and 84 percent for FXIII. 13-15 The com- mercial system treats previously frozen plasma as well as fresh plasma.The differences in the observed factor activi- ties after treatment may represent differences between fresh and frozen plasma. An alternative PCT method for single plasma units was recently CE Mark–approved. PCT with amotosalen and UVA light has been shown to inactivate a broad spec- trum of pathogens including viruses, bacteria, parasites, and WBCs in plasma prepared as FFP. 5 The impact of PCT on coagulation activities varied among individual factors. In the studies described by Singh and colleagues, 5 the retention percentages for fibrinogen, FVII, and FVIII were 72 to 78 percent. All other coagulation parameters retained at least 82 percent of baseline activity, with FV, FXIII, andVWcoR retaining at least 92 percent. Antithrom- botic proteins (protein C, protein S, antithrombin) dem- onstrated a retention ranging between 95 and 98 percent. a 2PI was retained at 80 percent of baseline activity. The factor activities were within the reported reference ranges for conventional plasma and were suitable for transfusion support. 16,17 The current study is the first paired study to compare the performance of these two pathogen inactivation systems with commercial processes in a blood bank environment. We prepared matched plasma units and simultaneously treated these units with either the PCT system or the MB system, whereas a control unit was not treated. The results of this study show that all measurements of coagulation factor parameters are similar to published values. 1,5,17 Neither system had a major effect on the mean levels or retention of FII, FXII, FXIII, VWAg, ADAMTS-13 activity, and protein C throughout the treatment and storage periods. The proteins most affected by both systems are fibrinogen and FVIII. The MB system reduced the levels and retention of fibrinogen more than the PCT system. The MB system also reduced the levels and reten- tion of FVIII to a greater extent compared to the PCT system immediately after treatment and after thawing. The residual FVIII levels after 24 hours of storage at 4°C after thawing, however, were similar between the two systems and within therapeutic ranges. For FV, FVII, and FX, which are important for support of coagulopathy of chronic liver disease, the activity levels and retention in PCT-FFP were either equivalent to or higher than those in MB-FFP. Of all factors assayed, only F IX in MB-FFP was higher than PCT-FFP at the final test time point. F IX was equivalent between MB-FFP and PCT-FFP immediately after treatment and after freeze-thaw. In both systems, the levels of the anticoagulant pro- tein C were relatively unaffected after treatment and storage. The MB system reduced significantly the levels and retention of protein S compared to the PCT system. Previous studies have shown that the solvent/detergent (S/D)-treated plasma also resulted in a significant loss of protein S. 16,18 The low levels of protein S in S/D plasma have been linked to some sporadic cases of hepatic artery thrombosis in association with liver transplantation after treatment with S/D plasma prepared with the US treat- ment process (PLAS + SD, Vitex Technologies, Watertown, MA) 19 although this association has not been reported with S/D plasma prepared with the European process (Octaplas, Octapharma, Lachen, Switzerland). Protein S deficiency has also been linked to venous thrombosis in some patients undergoing plasma exchange with S/D plasma (prepared with either the US or European process) as the exchange fluid for thrombotic thrombocytopenic purpura (TTP). 20,21 MB-FFP, however, is prepared by an entirely different process and has not been clinically asso- ciated with thrombosis. The results of this study also showed that PCT-FFP generally fared better on global coagulation tests (PT, aPTT, and TT) compared to the MB-FFP. Pock and col- leagues 22 recently reported that thrombin generation capacity was significantly impaired in MB-treated plasma (approx. 70% reduction in peak thrombin levels, 38% reduction in AUC, and 11-min prolonged lag time) com- pared to levels in conventional FFP. The clinical conse- quence of insufficient thrombin generation on clot formation is unknown, however. In contrast, MB-FFP OSSELAER ET AL. 114    TRANSFUSION Volume 48, January 2008 delivered significantly higher levels of coagulation inhibi- tor antithrombin as well as plasminogen and a 2PI than PCT-FFP, but remained within the range described for therapeutic efficacy. In summary, with matched plasma units and treating these units with pathogen inactivation processes under similar settings, there is adequate preservation of relevant coagulation factor activities in both PCT-FFP and MB-FFP. Both products are suitable for support of patients requir- ing plasma transfusion. More detailed analysis, however, revealed that the overall coagulation factor levels and sta- bility of PCT-FFP were better preserved than in MB-FFP. Since the introduction of MB plasma, more than 3 million units have been transfused with no serious adverse events reported although few randomized con- trolled trials with MB plasma have been published. A post- marketing 5-year surveillance in one center showed a significant reduction in adverse reactions for MB-FFP compared to untreated conventional FFP. 23 Several earlier reports have suggested reduced efficacy when used as the exchange fluid in TTP. 24,25 Atance and colleagues 26 also noted increased blood component usage after conversion to MB plasma, perhaps due to decreased therapeutic effi- cacy of MB plasma. PCT-FFP has been evaluated in three Phase III clinical trials with 203 patients for all major indications: congenital 27 and acquired coagulation 28 defi- ciencies andTTP. 29 The results of these trials demonstrated the efficacy and safety of PCT-FFP in the settings for which FFP transfusion is indicated. This study compared the MB system with the PCT system on the effect of pathogen inactivation treatment on protein function with in vitro assays. Additional paired studies are needed to determine whether the observed differences are clinically relevant. For  both  systems,  there  are  published  studies addressing the safety of adding a substance to a blood component for pathogen inactivation. Toxicology assess- ment in conformance with the International Conference on Harmonization (ICH) standards has been conducted with nonphotoilluminated amotosalen and amotosalen photochemically treated plasma. Results of these studies show large safety margins relative to the expected clinical exposure. 30,31 In published toxicology studies on MB, large safety margins have also been shown, but the toxicologic assessment available in the literature is limited to MB, not photoilluminated MB in plasma. 32,33 The safety of the MB system is largely supported by years of clinical use expe- rience and several million units of MB-plasma transfused. For implementation of a new pathogen inactivation technology, although it is important to evaluate the mechanism of action, pathogen inactivation efficacy, coagulation factor activity, toxicology, clinical efficacy, and safety, a blood center must take into consideration the processing logistics. The MB illuminator is a stand-alone floor model that illuminates 4 units (235-315 mL) of plasma simultaneously, whereas two PCT UVA illumina- tors can be stacked and illuminate four jumbo units (650 mL) of plasma. In the same time frame, under routine blood bank operation conditions, 12 PCT-FFP products (200 mL) can be manufactured compared to 4 MB-FFP products (200-300 mL). It should be noted that the MB system is capable of treating single-donor products from whole-blood or apheresis procedures. The apheresis plasma units, if more than 315 mL, must be split before treatment. The PCT system is capable of treating single- donor jumbo apheresis plasma units. For centers that do not collect enough apheresis plasma for therapeutic transfusions, whole blood–derived plasma can be treated with PCT by pooling 2 to 3 units before treatment. This requirement may pose a problem for blood collection establishments where such pooling is not authorized. The synergy of using the same technology and same system for PLTs and plasma is important in our institution. Our center introduced the PCT system for PLTs in October 2003; adding the PCT system for plasma is logistically effi- cient because the same UVA illuminators are used to treat PLTs and plasma with very similar processing procedures. ACKNOWLEDGMENTS The authors thank Ms Edith Goossenaerts for support in the coordination and supplies for the study, Ms Rebecca Spurling for technical assistance with the ADAMTS-13 activity assay, and Dr Laurence Corash for his review of the manuscript. REFERENCES 1.  Williamson LM, Cardigan R, Prowse CV. Methylene blue- treated fresh-frozen plasma: what is its contribution to blood safety? Transfusion 2003;43:1322-9. 2.  Lin L, Dikeman R, Molini B, Lukehart SA, Lane R, Dupuis K, Metzel P, Corash L. Photochemical treatment of platelet concentrates with amotosalen and long-wavelength ultra- violet light inactivates a broad spectrum of pathogenic bacteria. Transfusion 2004;44:1496-504. 3.  Lin L, Hanson CV, Alter HJ, Jauvin V, Bernard KA, Murthy KK, Metzel P, Corash L. Inactivation of viruses in platelet concentrates by photochemical treatment with amotosalen and long-wavelength ultraviolet light. Transfusion 2005;45: 580-90. 4.  Wollowitz S. Fundamentals of the psoralen-based Helinx technology for inactivation of infectious pathogens and leukocytes in platelets and plasma. Semin Hematol 2001; 38(4 Suppl11):4-11. 5.  Singh Y, Sawyer LS, Pinkoski LS, Dupuis KW, Hsu JC, Lin L, Corash L. Photochemical treatment of plasma with amo- tosalen and long-wavelength ultraviolet light inactivates pathogens while retaining coagulation function. Transfu- sion 2006;46:1168-77. 6.  Muller-Breitkreutz K, Mohr H, Briviba K, Sies H. Inactiva- COMPARISON: METHYLENE BLUE AND AMOTOSALEN Volume 48, January 2008 TRANSFUSION    115 tion of viruses by chemically and photochemically gener- ated singlet molecular oxygen. J Photochem Photobiol B 1995;30:63-70. 7.  Lin L, Conlan MG, Tessman J, Tessman J, Cimino G, Porter S. Amotosalen interactions with platelet and plasma components: absence of neoantigen formation after photochemical treatment. Transfusion 2005;45:1610-20. 8.  Van Voorhis WC, Barrett LK, Eastman RT, Alfonso R, Dupuis K. Trypanosoma cruzi inactivation in human plate- let concentrates and plasma by a psoralen (amotosalen HCl) and long-wavelength UV. Antimicrob Agents Chemother 2003;47:475-9. 9.  Eastman RT, Barrett LK, Dupuis K, Buckner FS, Voorhis WC. Leishmania inactivation in human pheresis platelets by a psoralen (amotosalen HCl) and long-wavelength ultraviolet irradiation. Transfusion 2005;45:1459-63. 10.  Castro E, Gironés N, Bueno JL, Carrion J, Fresno M. The efficacy of photochemical treatment with amotosalen and UVA (INTERCEPT) for the inactivation of Trypanosoma cruzi (T. cruzi) in buffy coat derived platelet components. Vox Sang 2006;91(S3):176. 11.  Girones N, Bueno JL, Carrion J, Fresno M, Castro E. The efficacy of photochemical treatment with methylene blue and light for the reduction of Trypanosoma cruzi in infected plasma. Vox Sang 2006;91:285-91. 12.  Wagner SJ, Robinette D, Storry J, Chen XY, Shumaker J, Benade L. Differential sensitivities of viruses in red cell suspensions to methylene blue photosensitization. Transfusion 1994;34:521-6. 13.  Aznar JA, Molina R, Montoro JM. Factor VIII/von Willebrand factor complex in methylene blue-treated fresh plasma. Transfusion 1999;39:748-50. 14.  Garwood M, Cardigan RA, Drummond O, Hornsey V, Turner CP, Young D, Williamson LM, Prowse CV. The effect of methylene blue photoinactivation and methylene blue removal on the quality of fresh-frozen plasma. Transfusion 2003;43:1238-47. 15.  Hornsey VS, Drummond O, Young D, Docherty A, Prowse CV. A potentially improved approach to methylene blue virus inactivation of plasma: the Maco Pharma Maco- Tronic system. Transfus Med 2001;11:31-6. 16.  Beeck H, Hellstern P. In vitro characterization of solvent/ detergent-treated human plasma and of quarantine fresh frozen plasma. Vox Sang 1998;74 (Suppl1):219-23. 17.  Heiden M, Seitz R. Quality of therapeutic plasma- requirements for marketing authorization. Thromb Res 2002;107 (Suppl1):S47-51. 18.  Solheim B. Composition, efficacy, and safety of S/D-treated plasma. Transfusion 2003;43:1176-8. 19.  Beach KJ. Important prescribing information [monograph on the Internet]. Watertown (MA): V.I. Technologies, Inc. (VITEX); 2000 Oct 20. Available from: http://www.fda.gov/ medwatch/safety/2000/plassd.pdf 20.  Flamholz R, Jeon HR, Baron JM, Baron BW. Study of three patients with thrombotic thrombocytopenic purpura exchanged with solvent/detergent-treated plasma: is its decreased protein S activity clinically related to their devel- opment of deep venous thromboses? J Clin Apher 2000;15: 169-72. 21.  Yarranton H, Cohen H, Pavord SR, Benjamin S, Machin SJ. Venous thromboembolism associated with the manage- ment of acute thrombotic thrombocytopenic purpura. Br J Haematol 2003;121:778-85. 22.  Pock K, Heger A, Janisch S, Svae T-E, Romisch J. Thrombin generation capacity is significantly impaired in methylene- blue treated plasma compared to normal levels in single- donor fresh-frozen plasma, a pharmaceutically licensed coagulation active plasma (Octaplas), and a development product (Uniplas) [abstract]. Proceedings of Pathogen Inactivation Consensus Conference; Toronto, Canada; 2007 Mar 29-30. 23.  Politis C, Kavallierou L, Hantziara S, Katsea, P, Triantaphylou V, Richardson C, Tsoutsos D, Anagnosto- poulos N, Gorgolidis G, Ziroyannis, P. Quality and safety of fresh-frozen plasma inactivated and leucoreduced with the Theraflex methylene blue system including the Blueflex filter: 5 years’ experience. Vox Sang 2007;92:319-26. 24.  Alvarez-Larran A, Del Rio J, Ramirez C, Albo C, Peña, F, Campos A, Cid J, Muncunill J, Sastre J-L, Sanz C, Pereira A. Methylene blue-photoinactivated plasma vs. fresh-frozen plasma as replacement fluid for plasma exchange in thrombotic thrombocytopenic purpura. Vox Sang 2004;86: 246-51. 25.  de la Rubia J, Arriaga F, Linares D, Larrea L, Carpio N, Marty ML, Sanz MA. Role of methylene blue-treated or fresh frozen plasma in the response to plasma exchange in patients with thrombotic thrombocytopenic purpura. Br J Haematol 2001;114:721-3. 26.  Atance R, Pereira A, Ramirez B. Transfusing methylene blue-photoinactivated plasma instead of FFP is associated with an increased demand for plasma and cryoprecipitate. Transfusion 2001;41:1548-52. 27.  de Alarcon P, Benjamin R, Dugdale M, Kessler C, Shopnick R, Smith P, Abshire T, Hambleton J, Matthew P, Ortiz I, Cohen A, Konkle BA, Streiff M, Lee M, Wages D, Corash L. Fresh frozen plasma prepared with amotosalen HCl (S-59) photochemical pathogen inactivation: transfusion of patients with congenital coagulation factor deficiencies. Transfusion 2005;45:1362-72. 28.  Mintz PD, Bass NM, Petz LD, Steadman R, Streiff M, McCullough J, Burks S, Wages D, Van Doren S, Corash L. Photochemically treated fresh frozen plasma for transfu- sion of patients with acquired coagulopathy of liver disease. Blood 2006;107:3753-60. 29.  Mintz PD, Neff A, MacKenzie M, Goodnough LT, Hillyer C, Kessler C, McCrae K, Menitove JE, Skikne BS, Damon L, Lopez-Plaza, I, Rouault C, Crookston KP, Benjamin RJ, George J, Lin JS, Corash L, Conlan M. A randomized, con- trolled Phase III trial of therapeutic plasma exchange with fresh-frozen plasma (FFP) prepared with amotosalen and OSSELAER ET AL. 116    TRANSFUSION Volume 48, January 2008 ultraviolet A light compared to untreated FFP in throm- botic thrombocytopenic purpura. Transfusion 2006;46: 1693-704. 30.  Ciaravino V, McCullough T, Cimino G, Sullivan T. Preclini- cal safety profile of plasma prepared using the INTERCEPT Blood System. Vox Sang 2003;85:171-82. 31.  Ciaravino V. Preclinical safety of a nucleic acid-targeted Helinx compound: a clinical perspective. Semin Hematol 2001;38(4 Suppl11):12-9. 32.  Wagner SJ, Cifone MA, Murli H, Dodd RY, Myhr B. Mam- malian genotoxicity assessment of methylene blue in plasma: implications for virus inactivation. Transfusion 1995;35:407-13. 33.  Hejtmancik MR, Ryan MJ, Toft JD, Persing RL, Kurtz PJ, Chhabra RS. Hematological effects in F344 rats and B6C3F1 mice during the 13-week gavage toxicity study of methylene blue trihydrate. Toxicol Sci 2002;65:126- 34. COMPARISON: METHYLENE BLUE AND AMOTOSALEN Volume 48, January 2008 TRANSFUSION    117 ",
-	"relationships": [],
-	"schema": {
-		"annotation_types": [{
-			"id": "Vehicle",
-			"name": "Vehicle",
-			"color": "#ce11dd"
-		}, {
-			"id": "TestArticleVerification",
-			"name": "TestArticleVerification",
-			"color": "#4e6ff0"
-		}, {
-			"id": "GroupName",
-			"name": "GroupName",
-			"color": "#70f07b"
-		}, {
-			"id": "GroupSize",
-			"name": "GroupSize",
-			"color": "#dc9ef3"
-		}, {
-			"id": "SampleSize",
-			"name": "SampleSize",
-			"color": "#dc597f"
-		}, {
-			"id": "Species",
-			"name": "Species",
-			"color": "#62c2e3"
-		}, {
-			"id": "Strain",
-			"name": "Strain",
-			"color": "#9a4329"
-		}, {
-			"id": "Sex",
-			"name": "Sex",
-			"color": "#74aa70"
-		}, {
-			"id": "CellLine",
-			"name": "CellLine",
-			"color": "#03fe25"
-		}, {
-			"id": "Dose",
-			"name": "Dose",
-			"color": "#2197c9"
-		}, {
-			"id": "DoseUnits",
-			"name": "DoseUnits",
-			"color": "#4ad9b8"
-		}, {
-			"id": "DoseFrequency",
-			"name": "DoseFrequency",
-			"color": "#df3cfb"
-		}, {
-			"id": "DoseDuration",
-			"name": "DoseDuration",
-			"color": "#e0d1ac"
-		}, {
-			"id": "DoseDurationUnits",
-			"name": "DoseDurationUnits",
-			"color": "#0b6548"
-		}, {
-			"id": "DoseRoute",
-			"name": "DoseRoute",
-			"color": "#6d84d8"
-		}, {
-			"id": "TimeAtDose",
-			"name": "TimeAtDose",
-			"color": "#892d85"
-		}],
-		"relationship_types": [{
-			"id": "Type1",
-			"name": "Type1",
-			"color": "blue"
-		}, {
-			"id": "Type2",
-			"name": "Type2",
-			"color": "#ce11dd"
-		}]
-	},
-	"highlights": [{
-		"content": {
-			"text": "mL"
-		},
-		"position": {
-			"boundingRect": {
-				"x1": 565.9112548828125,
-				"y1": 275.390625,
-				"x2": 584.7638549804688,
-				"y2": 289.390625,
-				"width": 762.9999999999999,
-				"height": 1005.7727272727271
-			},
-			"rects": [{
-				"x1": 565.9112548828125,
-				"y1": 275.390625,
-				"x2": 584.7638549804688,
-				"y2": 289.390625,
-				"width": 762.9999999999999,
-				"height": 1005.7727272727271,
-				"background": "#4ad9b8"
-			}],
-			"pageNumber": 2
-		},
-		"comment": {
-			"text": "DoseUnits",
-			"relationship": "",
-			"begin": 7360,
-			"end": 7362
-		},
-		"userName": "x9o",
-		"timestamp": 1662130048220,
-		"id": "7801257286607421"
-	}, {
-		"content": {
-			"text": "235-315"
-		},
-		"position": {
-			"boundingRect": {
-				"x1": 517.2806396484375,
-				"y1": 275.390625,
-				"x2": 562.5269775390625,
-				"y2": 289.390625,
-				"width": 762.9999999999999,
-				"height": 1005.7727272727271
-			},
-			"rects": [{
-				"x1": 517.2806396484375,
-				"y1": 275.390625,
-				"x2": 562.5269775390625,
-				"y2": 289.390625,
-				"width": 762.9999999999999,
-				"height": 1005.7727272727271,
-				"background": "#2197c9"
-			}],
-			"pageNumber": 2
-		},
-		"comment": {
-			"text": "Dose",
-			"relationship": "",
-			"begin": 7611,
-			"end": 7618
-		},
-		"userName": "x9o",
-		"timestamp": 1662130041298,
-		"id": "08013388748371941"
-	}, {
-		"content": {
-			"text": "PCT-FFP"
-		},
-		"position": {
-			"boundingRect": {
-				"x1": 123.77139282226562,
-				"y1": 668.015625,
-				"x2": 169.8270263671875,
-				"y2": 681.015625,
-				"width": 762.9999999999999,
-				"height": 1005.7727272727271
-			},
-			"rects": [{
-				"x1": 123.77139282226562,
-				"y1": 668.015625,
-				"x2": 169.8270263671875,
-				"y2": 681.015625,
-				"width": 762.9999999999999,
-				"height": 1005.7727272727271,
-				"background": "#9a4329"
-			}],
-			"pageNumber": 1
-		},
-		"comment": {
-			"text": "Strain",
-			"relationship": "",
-			"begin": 824,
-			"end": 831
-		},
-		"userName": "x9o",
-		"timestamp": 1662130016299,
-		"id": "2445560474342976"
-	}, {
-		"content": {
-			"text": "ADAMTS-13"
-		},
-		"position": {
-			"boundingRect": {
-				"x1": 78.84375,
-				"y1": 652.640625,
-				"x2": 140.693603515625,
-				"y2": 665.640625,
-				"width": 762.9999999999999,
-				"height": 1005.7727272727271
-			},
-			"rects": [{
-				"x1": 78.84375,
-				"y1": 652.640625,
-				"x2": 140.693603515625,
-				"y2": 665.640625,
-				"width": 762.9999999999999,
-				"height": 1005.7727272727271,
-				"background": "#9a4329"
-			}],
-			"pageNumber": 1
-		},
-		"comment": {
-			"text": "Strain",
-			"relationship": "",
-			"begin": 1329,
-			"end": 1338
-		},
-		"userName": "x9o",
-		"timestamp": 1662130006691,
-		"id": "934042558575884"
-	}, {
-		"content": {
-			"text": "photochemical treatment"
-		},
-		"position": {
-			"boundingRect": {
-				"x1": 150.09368896484375,
-				"y1": 148.265625,
-				"x2": 404.0213623046875,
-				"y2": 171.265625,
-				"width": 762.9999999999999,
-				"height": 1005.7727272727271
-			},
-			"rects": [{
-				"x1": 150.09368896484375,
-				"y1": 148.265625,
-				"x2": 404.0213623046875,
-				"y2": 171.265625,
-				"width": 762.9999999999999,
-				"height": 1005.7727272727271,
-				"background": "#ce11dd"
-			}],
-			"pageNumber": 1
-		},
-		"comment": {
-			"text": "Vehicle",
-			"relationship": "",
-			"begin": 78,
-			"end": 101
-		},
-		"userName": "x9o",
-		"timestamp": 1662129986006,
-		"id": "005437784782709398"
-	}]
+  "text": "BLOODCOMPONENTS Coagulation function in fresh-frozen plasma prepared with two photochemical treatment methods: methylene blue and amotosalen Jean-Claude Osselaer, Cécile Debry, Maite Goffaux, Jacqueline Pineau, Genevieve Calomme, Eric Dubuc, Bernard Chatelain, Marie-Claire Vandendaele, Jocelyn Hsu, Margaret Rheinschmidt, and Lily Lin BACKGROUND: Pathogen inactivation of plasma intended for transfusion is now the standard of care in Belgium. Two methods for treatment of single plasma units are available: amotosalen plus ultraviolet A light and methylene blue plus visible light. This study com- pared the quality and stability of plasma treated with these two methods. STUDY DESIGN AND METHODS: Plasma units made from a pool of two ABO-matched fresh apheresis units were photochemically treated with either amotosalen (PCT-FFP) or methylene blue (MB-FFP). A total of 12 paired samples were evaluated. Plasma coagulation function was assessed at three time points: immediately after treatment, after 30 days of frozen storage, and an additional 24 hours at 4°C after thawing. Comparison between PCT-FFP and MB-FFP was assessed with the paired t test an d a p value of less than 0.05 indicated statistical significance. RESULTS: Based on statistical analysis, mean levels of factor (F)II, FXII, FXIII, von Willebrand antigen, ADAMTS-13, D-dimers, and protein C were equivalent between PCT-FFP and MB-FFP for all three time points. PCT-FFP exhibited shorter mean prothrombin time, activated partial thromboplastin time (two time points), and thrombin time and higher mean levels of fibrinogen, FXI, and protein S than MB-FFP. Retention of FV, FVII, FVIII, FX, or von Willebrand factor:ristocetin cofactor in PCT-FFP was either equivalent to or higher than MB-FFP. MB-FFP contained higher mean levels of plasminogen, antithrombin, and plasmin inhibitor than PCT-FFP. Retention of F IX in MB-FFP was higher than PCT-FFP only after the 4°C storage after thawing. CONCLUSION: There is adequate preservation of therapeutic coagulation factor activities in both PCT- FFP and MB-FFP. The overall coagulation factor levels and stability of PCT-FFP were better preserved than MB-FFP. T he  residual  risk  of  selected  transfusion- transmitted infections and the concerns about emerging  pathogens  have  prompted  some European  countries  to  mandate  additional practices for plasma. In Belgium, in addition to manda- tory testing for a number of pathogens known to be trans- mitted by transfusion, pathogen inactivation of plasma intended for transfusion is now the standard of care. Since 2004, all individual therapeutic plasma units in Belgium have been treated with a disposable set for treatment of plasma (Theraflex, MacoPharma, Mouvaux, France), which utilizes methylene blue (MB) and visible light to inactivate viruses in plasma. 1 A new pathogen inactivation ABBREVIATIONS: aPTT = activated partial thromboplastin time; MB-FFP = fresh-frozen plasma treated with the methylene blue method; PCT = photochemical treatment; PCT-FFP = fresh- frozen plasma treated with the amotosalen photochemical method; a 2PI =a 2 plasmin inhibitor; PT = prothrombin time; TT = thrombin time; TTP = thrombotic thrombocytopenic purpura; VWAg = von Willebrand antigen; VWcoR = von Willebrand factor:ristocetin cofactor. From the Blood Transfusion Center and Laboratory of Hematol- ogy, Cliniques Universitaires de Mont Godinne, Université Catholique de Louvain, Yvoir, Belgium; the Blood Transfusion Center Charleroi, Charleroi, Belgium; and Cerus Corp., Concord, California. Address reprint requests to: Jean-Claude Osselaer, MD, JD, Cliniques Universitaires U.C.L. Yvoir, 1, avenue Thérasse, 5530 Yvoir, Belgium; e-mail: jean-claude.osselaer@sang.ucl.ac.be. This study was supported in part by Cerus Corp. Three authors (JH, MR, LL) were affiliated with and held stock or stock options of Cerus Corp. during the conduct of this study. Received for publication April 12, 2007; revision received June 12, 2007, and accepted June 15, 2007. doi: 10.1111/j.1537-2995.2007.01488.x. TRANSFUSION 2008;48:108-117. 108    TRANSFUSION Volume 48, January 2008 system (the INTERCEPT Blood System, Cerus Europe BV, Leusden, Netherlands), which uses amotosalen and ultra- violet A (UVA) light to photochemically (PCT) inactivate viruses, bacteria, parasites, and white blood cells (WBCs) in platelets (PLTs), and plasma, has received CE Mark registration and is now available in Europe. 2-5 These two technologies differ in their mechanism of action. The MB system is based on the production of non- specific singlet oxygen. Visible light catalyzes the forma- tion of reactive oxygen radical species, especially singlet oxygen via energy transfer, resulting primarily in gua- nosine oxidation and depurination. This photodynamic reaction is nonspecific, and singlet oxygen can diffuse and react indiscriminately with proteins, lipids, and nucleic acids. 6 The PCT system is based on the specific photo- chemical reaction of amotosalen and UVA light with nucleic acid. 4 Amotosalen molecules reversibly intercalate into the helical regions of DNA and RNA. Upon illumina- tion with UVA light, intercalated amotosalen molecules form irreversible covalent bonds with pyrimidine bases present in DNA or RNA. Because of the nucleic acid reaction specificity, amotosalen–protein interaction is minimal. 7 The PCT system has shown inactivation of high levels of a broad spectrum of bacteria, 2 viruses, 3 and parasites. 8-10 The MB system has also demonstrated the ability to inactivate a broad range of enveloped viruses 1 and some parasites. 11 The photodynamic effect of the MB system is not effective for inactivation of bacteria, cell-associated viruses, or WBCs. 12 The plasma filtration and/or freeze-thaw step incorporated into the MB system reduces the levels of contaminating WBCs and the associ- ated viruses. The PCT system for PLTs was introduced into Europe in 2003 and has been used on a routine basis in the Blood Transfusion Center of Mont Godinne since October 2003. With the recent introduction of the PCT system for plasma, there is now an alternative to the MB system for pathogen inactivation of plasma. As part of the decision process to evaluate new technology, we designed a study to assess and compare the in vitro coagulation factor activity, recovery, and stability after treatment with the PCT system and the MB system with matched plasma units. To our knowledge this is the first direct comparison between these two pathogen inactivation methods. MATERIALS AND METHODS Plasma collection and processing Twenty-four units of apheresis plasma (500-600 mL) were collected  from  volunteer  donors  by  plasmapheresis with an automated blood cell separator (Autopheresis-C, Baxter Healthcare Corp., Deerfield, IL) for 12 replicate experiments. Citrate anticoagulant was used at a ratio of 1:16. Donors with blood groups A, B, and O were repre- sented in the study population. For each replicate experi- ment, two ABO-matched apheresis plasma units were pooled and divided into 3 units containing different volumes of identical plasma. A volume of 200 mL was used for the untreated control. A volume of 235 to 315 mL was transferred to a plasma container for the fresh-frozen plasma treated with the methylene blue method (MB- FFP) study arm, and a volume of 435 to 635 mL was trans- ferred to a plasma container for the fresh-frozen plasma treated with the amotosalen photochemical method (PCT-FFP) study arm. Different volumes were used in the two methods. In routine use, individual whole blood– derived plasma units (235-315 mL) are treated with the MB process whereas apheresis plasma units or pooled whole blood–derived plasma units (435-635 mL) are treated with the PCT process. PCT-FFP processing disposable sets The PCT-FFP disposable set for treatment of plasma (Code INT310X, Cerus Europe BV) consisted of the following sequentially integrated components: 15 mL of 6 mmol per L amotosalen hydrochloride solution in saline packaged inside a plastic container (PL-2411, Baxter Healthcare Corp.) and protected from UVA light; a 1.3-L plastic con- tainer (PL-2410, Baxter Healthcare Corp.) for illumination of plasma; a flow compound adsorption device (CAD) to reduce the concentration of amotosalen and free photo- products consisting of an adsorbent disk composed of a copolymer of polystyrene and divinylbenzene particles fused with an ultrahigh-molecular-weight polyethylene plastic enclosed in an acrylic housing; and three 400-mL plastic containers (PL-269, Baxter Healthcare Corp.) for storage of the treated plasma. Amotosalen-UVA process and UVA illumination device Each plasma unit with a volume ranging from 435 to 635 mL was treated with a single PCT-FFP processing set and resulted in 2 to 3 plasma units of approximately 200 mL. The manufacturer’s instructions for processing were followed. Briefly, the plasma unit was sterile con- nected to the amotosalen container and the plasma content passed through the amotosalen container into the illumination container. The plasma containing amo- tosalen was illuminated with a 3 J per cm 2 UVA light treatment. The illuminated plasma mixture was passed through the compound adsorption device by gravity in approximately 20 minutes and evenly distributed into two or three storage containers. Illumination of plasma was performed in an INTER- CEPT Illuminator (Code INT100, Cerus Europe BV, for- merly known as R4R4008, Baxter Healthcare Corp.). The device was capable of illuminating 2 units of plasma (400- COMPARISON: METHYLENE BLUE AND AMOTOSALEN Volume 48, January 2008 TRANSFUSION    109 650 mL) per processing cycle. The illuminator delivered a 3 J per cm 2 UVA (320-400 nm) treatment to each plasma unit in approximately 7 to 9 minutes. During illumination, plasma units were reciprocally agitated at approximately 70 cycles per minute. MB-FFP processing disposable sets The MB-FFP disposable set for treatment of plasma (Theraflex, MacoPharma) consisted of the following inte- grated components: a PLAS 4 membrane plasma filter, a tablet of MB hydrochloride (85 m g) situated between the plasma filter and the illumination container, a plastic con- tainer (400 mL) for illumination of plasma, a MB depletion filter to reduce the concentration of MB, and a plastic container (400 mL) for storage of the treated plasma. MB process and visible light illumination device Each plasma unit with a volume ranging from 235 to 315 mL was treated with a single MB-FFP processing set and resulted in one transfusable plasma unit. The manu- facturer’s instruction for processing was followed. Briefly, the plasma unit was sterile connected to the set and the plasma content passed through the PLAS 4 membrane plasma filter to remove cellular elements. The plasma content passed through the MB dry tablet into the illumi- nation container. The plasma containing MB was illumi- nated with 180 J per cm 2 visible light. The illuminated plasma mixture was passed through the MB reduction filter by gravity into a single storage container. Illumination of plasma was performed in a commer- cially available illuminator (Maco-tronic, MacoPharma). The device was capable of illuminating 4 units of plasma per processing cycle. The illuminator delivered a 180 J per cm 2 visible light treatment to each plasma unit in approxi- mately 20 minutes. During illumination plasma units were agitated. Plasma processing after photochemical treatment The two photochemical treatments (PCTs) were per- formed concurrently while the control unit was kept at ambient temperature for the duration of the PCT process. After completion of compound reduction, plasma units for three study arms (PCT-FFP, MB-FFP, and untreated control) were processed in an identical manner. Approxi- mately 40 mL of plasma was removed from one plasma unit in each study arm. Plasma was aliquoted into polypropylene tubes and placed in a blast freezer at the same time as the plasma units. The three plasma units from each replicate experiment were frozen at the same time. All plasma units were frozen within 8 hours of collection. Units were stored frozen for 30 days at - 30°C. After 30 days, each plasma unit was thawed with a 37°C plasma warmer (DH8, Helmer, Noblesville, IN). Samples of plasma taken for analysis of coagulation function were transferred to polypropylene freezer tubes, frozen at - 30°C, and stored at - 30°C until assay. All thawed plasma units were placed into refrigerator storage (4°C) for an additional 24 hours to assess relative stability of coagulation factors after thawing to model routine clinical practice of holding thawed plasma before transfusion. Samples of plasma from thawed units were withdrawn for coagulation function analysis, transferred to polypropylene freezer tubes, frozen at - 30°C, and stored at - 30°C until assay. Measurement of in vitro coagulation function Coagulation factors for each type of plasma were mea- sured concurrently to minimize differences attributable to variability in assay conditions or substrates. Plasma samples were thawed with a 37°C water bath and assayed within 2 hours of thawing. Each sample was assayed with a comprehensive panel of coagulation tests: prothrombin time (PT; Innovin, Dade Behring, Marburg, Germany); activated partial thromboplastin time (aPTT; PTT Automote, Diagnostica Stago, Vilvoorde, Belgium); thrombin time (TT; throm- bin 10, Diagnostica Stago); fibrinogen (fibrinogen 5, Diag- nostica Stago); D-dimers (Liatest Ddi, Diagnostica Stago); antithrombin (Stachrom ATIII, Diagnostica Stago); von Willebrand antigen (VWAg; Liatest VWF, Diagnostica Stago); von Willebrand factor:ristocetin cofactor (VWcoR; BC von Willebrand reagent, Dade Behring); Factor (F)II, FV, FVII, and FX (FII-, FV-, FVII-, or FX-deficient plasma, Diagnostica Stago; Innovin, Dade Behring); FVIII, F IX, FXI, and FXII (FVIII-, F IX-, FXI-, or FXII-deficient plasma, Precision Biologic, Dartmouth, Nova Scotia, Canada; CL’prest, Diagnostica Stago); FXIII (Berichrom FXIII, Dade Behring); protein C (Coamatic protein C, Chromogenix, Milan, Italy); protein S (Liatest protein S, Diagnostica Stago); plasminogen (Stachrom plasminogen, Diagnos- tica Stago); a 2 plasmin inhibitor ( a 2PI; Stachrom anti- plasmin, Diagnostica Stago); and ADAMTS-13 activity (ATS-13, GTI Diagnostics, Waukesha, WI). All assays were performed with clinically approved methods at the clini- cal laboratory of the Blood Transfusion Center of Mont Godinne. The reference ranges for each assay are indi- cated in Table 1. Statistical analysis The mean and standard deviation (mean \u0002 SD, n = 12) were determined for each parameter. For each time point assayed, the ratio of the coagulation factor or antithrom- botic protein activity remaining after pathogen inactiva- OSSELAER ET AL. 110    TRANSFUSION Volume 48, January 2008 tion with either MB or amotosalen to the activity in the corresponding untreated control was calculated and expressed as percentage of retention. For PT, aPTT, andTT, the prolongation of the clotting time after pathogen inac- tivation relative to the corresponding untreated control was determined. Significant differences between PCT-FFP and MB-FFP were evaluated with a t test for paired samples. A p value of less than 0.05 indicated significant differences. RESULTS Apheresis collections and processing All apheresis plasma units were collected and processed without incident. Four of the 12 replicates were blood group A, 6 were blood group O, and 2 were blood group B. All units met the local requirements for red cells ( < 6 ¥ 10 9 / L), WBCs ( < 0.1 ¥ 10 9 /L), and PLTs ( < 50 ¥ 10 9 /L). Effect of pathogen inactivation on global coagulation assays The mean values of aPTT and TT for control plasma, PCT- FFP, and MB-FFP remained within the reference ranges at all three time points. The mean values of PT for MB-FFP exceeded the upper limit of the reference range (10.2 sec) by 0.1-0.3 seconds at all three time points whereas the mean PT of the control plasma samples exceeded the upper limit by 0.3 seconds only at the final time point (Table 2). The mean aPTT and TT for MB-FFP and PCT-FFP were increased over control values (Table 2). The prolon- gation was significantly shorter (p < 0.05) for PCT-FFP compared to MB-FFP at all test points for TT but only at the postthaw time point for aPTT (Table 3). The mean PT remained the same or decreased slightly for PCT-FFP whereas it increased for MB-FFP over control values after treatment and after thaw. After storage at 4°C after thawing, the mean PT of both PCT-FFP and MB-FFP decreased. The differences between PCT-FFP and MB-FFP reached significance at all three time points (p < 0.05; Table 3). Effect of pathogen inactivation on coagulation factor activity All mean values of coagulation factor levels throughout the testing periods fell within the reference ranges (Table 2). The mean fibrinogen levels were 326-333 mg per dL for PCT-FFP and 294-300 mg per dL for MB-FFP. The mean FVIII levels were 69 to 102 IU per dL for PCT-FFP and 69 to 91 IU per dL for MB-FFP. The mean retention relative to correspondingcontrolplasmawasgenerallyintherangeof 86 to 123 percent for factor activities (Table 2) with the exception for fibrinogen (79%-81% for MB-FFP) and FVIII (72%-81% for MB-FFP and 81%-83% for PCT-FFP). No significant differences were seen in the mean retention of FII, FXII, FXIII, VWAg, and ADAMTS-13 between MB-FFP and PCT-FFP at all three test points (Table 3). The mean retention of fibrinogen and FXI was significantly higher (p < 0.05) in PCT-FFP than MB-FFP at all time points. The mean retention of FV, FVII, FVIII, FX, and VWcoR in PCT-FFP was either equivalent to or higher (p < 0.05) than MB-FFP. F IX was not different between the two groups for the posttreatment and postthaw test points; however, MB-FFP exhibited a higher F IX retention (p < 0.05) than the PCT-FFP group after 24 hours of storage at 4°C after thawing. Effect of pathogen inactivation on inhibitors of coagulation The mean protein C levels ranged from 107 to 111 IU per dL for both PCT-FFP and MB-FFP throughout the testing periods (Table 2). These values were within the reference range and were not statistically different from the control values (111-112 IU/dL). The MB treatment process reduced the levels of protein S significantly compared to the PCT treatment process. The control plasma level of protein S had a mean value of 139 to 145 IU per dL. The mean protein S levels were 113 to 119 IU per dL for MB-FFP whereas the mean protein S levels were 137 to 139 IU per dL for PCT-FFP (Table 2). Even though these mean values were all within the reference range, the mean retention of protein S was significantly higher (p < 0.05) in the PCT-FFP group than the MB-FFP group at every time point (Table 3). In contrast, the levels of antithrombin were higher in MB-FFP than PCT-FFP (Table 2), although all individual TABLE 1. The reference ranges of each protein coagulation assay Assay Reference range aPTT 26-38 sec PT 8.5-10.2 sec TT 19-26 sec Fibrinogen 180-400 mg/dL D-dimers < 500 ng/mL Antithrombin 80-130 IU/dL VWAg 60-130 IU/dL VWcoR 50-150 IU/dL FII, FV, FVII, or FX 50-150 IU/dL FVIII 60-130 IU/dL FIX 60-130 IU/dL FXI 50-150 IU/dL FXII 40-150 IU/dL FXIII 50-150 IU/dL Protein C 70-120 IU/dL Protein S 65-140 IU/dL Plasminogen 80-110 IU/dL a 2PI 50-150 IU/dL ADAMTS-13 50%-150% of normal COMPARISON: METHYLENE BLUE AND AMOTOSALEN Volume 48, January 2008 TRANSFUSION    111 TABLE 2. The effect of pathogen inactivation on factors of the coagulation system immediately after treatment, after frozen storage, and after subsequent storage at 4°C (mean \u0002 SD, n = 12) Assay (T1) Immediately after treatment (T2) After frozen storage (T3) + 24 hr at 4°C after thawing Control-1* MB-FFP-1† PCT-FFP-1‡ Control-2 MB-FFP-2 PCT-FFP-2 Control-3 MB-FFP-3 PCT-FFP-3 aPTT (sec) 30.1 \u0002 1.5 31.8 \u0002 3.8 31.7 \u0002 1.6 30.0 \u0002 1.6 33.3 \u0002 2.1 32.0 \u0002 1.7‡ 31.7 \u0002 1.6 33.5 \u0002 2.6 33.7 \u0002 2.7 PT (sec) 9.9 \u0002 0.4 10.5 \u0002 0.3 9.9 \u0002 0.4‡ 10.1 \u0002 0.4 10.4 \u0002 0.5 9.9 \u0002 0.4‡ 10.5 \u0002 0.4 10.3 \u0002 1.2 9.6 \u0002 0.8‡ TT (sec) 20.8 \u0002 0.7 24.7 \u0002 1.1 22.0 \u0002 0.8‡ 21.0 \u0002 0.6 24.9 \u0002 1.1 22.1 \u0002 0.8‡ 21.1 \u0002 0.7 25.2 \u0002 1.3 22.6 \u0002 1.2‡ Fibrinogen (mg/dL) 372 \u0002 57 294 \u0002 40 330 \u0002 56‡ 373 \u0002 57 300 \u0002 45 333 \u0002 55‡ 367 \u0002 57 296 \u0002 42 326 \u0002 58‡ D-dimers (ng/mL) 323 \u0002 105 286 \u0002 80 301 \u0002 95 318 \u0002 120 301 \u0002 93 299 \u0002 83 308 \u0002 100 310 \u0002 101 315 \u0002 105 Antithrombin (IU/dL) 106 \u0002 6 108 \u0002 6† 105 \u0002 6 109 \u0002 6 108 \u0002 6† 104 \u0002 6 109 \u0002 6 108 \u0002 5† 105 \u0002 5 VWAg (IU/dL) 125 \u0002 54 121 \u0002 52 122 \u0002 52 128 \u0002 58 120 \u0002 51 121 \u0002 50 124 \u0002 53 121 \u0002 53 121 \u0002 51 VWcoR (IU/dL) 73 \u0002 33 66 \u0002 28 73 \u0002 34‡ 69 \u0002 30 64 \u0002 27 71 \u0002 35 69 \u0002 32 64 \u0002 28 70 \u0002 30‡ FII (IU/dL) 119 \u0002 9112 \u0002 10 111 \u0002 9118 \u0002 9114 \u0002 8112 \u0002 9117 \u0002 10 111 \u0002 11 111 \u0002 10 FV (IU/dL) 124 \u0002 11 115 \u0002 8 121 \u0002 11‡ 122 \u0002 13 112 \u0002 7119 \u0002 9‡ 123 \u0002 13 113 \u0002 9116 \u0002 7 FVII (IU/dL) 104 \u0002 11 107 \u0002 10 114 \u0002 14‡ 103 \u0002 10 111 \u0002 17 114 \u0002 13 93 \u0002 7 101 \u0002 14 115 \u0002 17‡ FVIII (IU/dL) 122 \u0002 30 91 \u0002 23 102 \u0002 30‡ 116 \u0002 32 82 \u0002 20 94 \u0002 27‡ 86 \u0002 26 69 \u0002 24 69 \u0002 19 F IX (IU/dL) 128 \u0002 15 115 \u0002 13 114 \u0002 18 130 \u0002 17 115 \u0002 13 112 \u0002 16 124 \u0002 17 113 \u0002 13† 109 \u0002 14 FX (IU/dL) 112 \u0002 14 105 \u0002 15 108 \u0002 14‡ 111 \u0002 13 105 \u0002 14 106 \u0002 13 110 \u0002 13 103 \u0002 14 106 \u0002 14‡ FXI (IU/dL) 114 \u0002 16 101 \u0002 19 106 \u0002 16‡ 116 \u0002 17 100 \u0002 18 106 \u0002 15‡ 112 \u0002 18 100 \u0002 20 106 \u0002 17‡ FXII (IU/dL) 110 \u0002 17 101 \u0002 17 98 \u0002 13 112 \u0002 15 101 \u0002 15 100 \u0002 14 112 \u0002 17 102 \u0002 18 98 \u0002 15 FXIII (IU/dL) 121 \u0002 21 118 \u0002 18 117 \u0002 21 123 \u0002 21 118 \u0002 18 119 \u0002 24 124 \u0002 20 119 \u0002 24 119 \u0002 25 Protein C (IU/dL) 111 \u0002 16 108 \u0002 16 107 \u0002 15 111 \u0002 15 107 \u0002 15 107 \u0002 15 112 \u0002 15 111 \u0002 16 109 \u0002 16 Protein S (IU/dL) 145 \u0002 31 113 \u0002 21 139 \u0002 28‡ 139 \u0002 28 113 \u0002 21 137 \u0002 27‡ 140 \u0002 28 119 \u0002 24 138 \u0002 27‡ Plasminogen (IU/dL) 109 \u0002 11 109 \u0002 12† 102 \u0002 11 110 \u0002 11 109 \u0002 13† 104 \u0002 10 111 \u0002 10 108 \u0002 12† 104 \u0002 12 a 2PI (IU/dL) 108 \u0002 5 101 \u0002 7† 93 \u0002 6 107 \u0002 5 102 \u0002 8† 94 \u0002 5 107 \u0002 5 101 \u0002 5† 93 \u0002 7 ADAMTS-13 (%N) 122 \u0002 14 114 \u0002 12 119 \u0002 16 119 \u0002 15 115 \u0002 17 119 \u0002 19 118 \u0002 20 118 \u0002 11 115 \u0002 19 *   Control plasma was not treated. The units for factors are as indicated. The ADAMTS-13 results are expressed as the percent of normal. The numbers (1,2 ,3) indicate the time points at which samples were taken: T1 = immediately after pathogen inactivation treatment; T2 = 30 days after frozen storage and thawed; T3 = an additional 24 hours storage at 4°C postthawing. †  MB-FFP is superior to PCT FFP. ‡  PCT FFP is superior to MB-FFP. OSSELAER ET AL. 112    TRANSFUSION Volume 48, January 2008 TABLE 3. Comparison of PCT-FFP and MB-FFP with the paired t test (n = 12) Assay PCT-FFP (mean \u0002 SD)* MB-FFP (mean \u0002 SD)* p values (PCT vs. MB)† Posttreatment/ Control 1 Postfreeze/ Control 2 + 24 hr at 4°C/ Control 3 Posttreatment/ Control 1 Postfreeze/ Control 2 + 24 hr at 4°C/ Control 3 Posttreatment/ Control 1 Postfreeze/ Control 2 + 24 hr at 4°C/ Control 3 aPTT (sec prolonged) 1.7 \u0002 1.0 2.0 \u0002 0.6 2.1 \u0002 0.9 1.7 \u0002 3.5 3.4 \u0002 0.8 1.8 \u0002 2.5 0.97 < 0.05 0.61 PT (sec prolonged) - 0.1 \u0002 0.3 - 0.2 \u0002 0.3 - 1.0 \u0002 0.8 0.5 \u0002 0.2 0.3 \u0002 0.5 - 0.3 \u0002 1.1 < 0.05 < 0.05 < 0.05 TT (sec prolonged) 1.2 \u0002 0.3 1.0 \u0002 0.5 1.6 \u0002 1.0 3.9 \u0002 0.9 3.9 \u0002 0.9 4.1 \u0002 1.2 < 0.05 < 0.05 < 0.05 Fibrinogen (%) 89 \u0002 289 \u0002 389 \u0002 579 \u0002 581 \u0002 581 \u0002 5 < 0.05 < 0.05 < 0.05 D-dimers (%) 94 \u0002 11 97 \u0002 13 103 \u0002 10 90 \u0002 997 \u0002 9 101 \u0002 14 0.18 0.89 0.78 Antithrombin (%) 99 \u0002 495 \u0002 596 \u0002 5 102 \u0002 399 \u0002 599 \u0002 5 < 0.05 < 0.05 < 0.05 VWAg (%) 98 \u0002 495 \u0002 498 \u0002 397 \u0002 394 \u0002 398 \u0002 4 0.10 0.081 0.78 VWcoR (%) 98 \u0002 8 103 \u0002 8 103 \u0002 891 \u0002 996 \u0002 11 95 \u0002 7 < 0.05 0.054 < 0.05 FII (%) 93 \u0002 495 \u0002 395 \u0002 394 \u0002 297 \u0002 295 \u0002 4 0.69 0.13 0.65 FV (%) 98 \u0002 698 \u0002 695 \u0002 793 \u0002 492 \u0002 593 \u0002 8 < 0.05 < 0.05 0.12 FVII (%) 109 \u0002 7110 \u0002 8 123 \u0002 5 103 \u0002 4 108 \u0002 22 108 \u0002 8 < 0.05 0.74 < 0.05 FVIII (%) 83 \u0002 781 \u0002 382 \u0002 775 \u0002 772 \u0002 981 \u0002 9 < 0.05 < 0.05 0.73 F IX (%) 89 \u0002 586 \u0002 588 \u0002 490 \u0002 489 \u0002 792 \u0002 7 0.36 0.16 < 0.05 FX (%) 96 \u0002 395 \u0002 396 \u0002 394 \u0002 595 \u0002 694 \u0002 3 < 0.05 0.60 < 0.05 FXI (%) 93 \u0002 691 \u0002 595 \u0002 788 \u0002 786 \u0002 989 \u0002 6 < 0.05 < 0.05 < 0.05 FXII (%) 89 \u0002 689 \u0002 488 \u0002 592 \u0002 690 \u0002 691 \u0002 5 0.11 0.34 0.087 FXIII (%) 97 \u0002 11 97 \u0002 696 \u0002 10 98 \u0002 997 \u0002 796 \u0002 7 0.74 0.93 0.88 Protein C (%) 96 \u0002 396 \u0002 398 \u0002 497 \u0002 296 \u0002 299 \u0002 5 0.52 0.77 0.27 Protein S (%) 96 \u0002 599 \u0002 599 \u0002 779 \u0002 10 82 \u0002 985 \u0002 11 < 0.05 < 0.05 < 0.05 Plasminogen (%) 94 \u0002 394 \u0002 293 \u0002 3 100 \u0002 299 \u0002 397 \u0002 3 < 0.05 < 0.05 < 0.05 a 2PI (%) 86 \u0002 488 \u0002 487 \u0002 594 \u0002 595 \u0002 494 \u0002 4 < 0.05 < 0.05 < 0.05 ADAMTS-13 (%) 97 \u0002 11 100 \u0002 798 \u0002 13 94 \u0002 10 97 \u0002 8 101 \u0002 13 0.11 0.15 0.48 *   The values are ratios of treated samples to the corresponding control samples except for the clotting times, where the values are calculated by subtr acting the control from the treated. The numbers (1, 2, 3) indicate the time points at which samples were taken: 1 = immediately after pathogen inactivation treatment; 2 = 30 days after frozen storage and thawed; 3 = an additional 24 hours storage at 4°C after thawing. †  The comparison was performed with the t test between PCT-FFP and MB-FFP. p < 0.05 indicates significant differences. COMPARISON: METHYLENE BLUE AND AMOTOSALEN Volume 48, January 2008 TRANSFUSION    113 measurements remained in the reference range. The differences in retention between MB-FFP and PCT-FFP reached significance (p < 0.05) throughout the three test time points (Table 3). Effect of pathogen inactivation on fibrinolytic proteins and thrombin activation The mean levels of plasminogen and a 2PI were higher in MB-FFP than PCT-FFP at all test times (Table 2). Even though these mean values were all within the reference range, the difference in retention between MB-FFP and PCT-FFP reached significance (p < 0.05) at every test time (Table 3). For measurements of D-dimers, there were no differences in the mean levels of D-dimers between the two study groups. DISCUSSION Pathogen inactivation of plasma intended for transfusion is now the standard of care in Belgium. Plasma treated with MB and visible light has been in clinical use since 2004. PCT with MB has been shown to inactivate a range of viruses. 1 Reported retention of the coagulation factors after treatment varied depending on the factors and among studies. Published retention values were between 61 and 79 percent for fibrinogen, 92 percent for FII, 90 and 95 percent for FV, 96 percent for FVII, 71 and 76 percent for FVIII, 89 percent for F IX, 85 percent for FX, 85 and 87 percent for FXI, and 84 percent for FXIII. 13-15 The com- mercial system treats previously frozen plasma as well as fresh plasma.The differences in the observed factor activi- ties after treatment may represent differences between fresh and frozen plasma. An alternative PCT method for single plasma units was recently CE Mark–approved. PCT with amotosalen and UVA light has been shown to inactivate a broad spec- trum of pathogens including viruses, bacteria, parasites, and WBCs in plasma prepared as FFP. 5 The impact of PCT on coagulation activities varied among individual factors. In the studies described by Singh and colleagues, 5 the retention percentages for fibrinogen, FVII, and FVIII were 72 to 78 percent. All other coagulation parameters retained at least 82 percent of baseline activity, with FV, FXIII, andVWcoR retaining at least 92 percent. Antithrom- botic proteins (protein C, protein S, antithrombin) dem- onstrated a retention ranging between 95 and 98 percent. a 2PI was retained at 80 percent of baseline activity. The factor activities were within the reported reference ranges for conventional plasma and were suitable for transfusion support. 16,17 The current study is the first paired study to compare the performance of these two pathogen inactivation systems with commercial processes in a blood bank environment. We prepared matched plasma units and simultaneously treated these units with either the PCT system or the MB system, whereas a control unit was not treated. The results of this study show that all measurements of coagulation factor parameters are similar to published values. 1,5,17 Neither system had a major effect on the mean levels or retention of FII, FXII, FXIII, VWAg, ADAMTS-13 activity, and protein C throughout the treatment and storage periods. The proteins most affected by both systems are fibrinogen and FVIII. The MB system reduced the levels and retention of fibrinogen more than the PCT system. The MB system also reduced the levels and reten- tion of FVIII to a greater extent compared to the PCT system immediately after treatment and after thawing. The residual FVIII levels after 24 hours of storage at 4°C after thawing, however, were similar between the two systems and within therapeutic ranges. For FV, FVII, and FX, which are important for support of coagulopathy of chronic liver disease, the activity levels and retention in PCT-FFP were either equivalent to or higher than those in MB-FFP. Of all factors assayed, only F IX in MB-FFP was higher than PCT-FFP at the final test time point. F IX was equivalent between MB-FFP and PCT-FFP immediately after treatment and after freeze-thaw. In both systems, the levels of the anticoagulant pro- tein C were relatively unaffected after treatment and storage. The MB system reduced significantly the levels and retention of protein S compared to the PCT system. Previous studies have shown that the solvent/detergent (S/D)-treated plasma also resulted in a significant loss of protein S. 16,18 The low levels of protein S in S/D plasma have been linked to some sporadic cases of hepatic artery thrombosis in association with liver transplantation after treatment with S/D plasma prepared with the US treat- ment process (PLAS + SD, Vitex Technologies, Watertown, MA) 19 although this association has not been reported with S/D plasma prepared with the European process (Octaplas, Octapharma, Lachen, Switzerland). Protein S deficiency has also been linked to venous thrombosis in some patients undergoing plasma exchange with S/D plasma (prepared with either the US or European process) as the exchange fluid for thrombotic thrombocytopenic purpura (TTP). 20,21 MB-FFP, however, is prepared by an entirely different process and has not been clinically asso- ciated with thrombosis. The results of this study also showed that PCT-FFP generally fared better on global coagulation tests (PT, aPTT, and TT) compared to the MB-FFP. Pock and col- leagues 22 recently reported that thrombin generation capacity was significantly impaired in MB-treated plasma (approx. 70% reduction in peak thrombin levels, 38% reduction in AUC, and 11-min prolonged lag time) com- pared to levels in conventional FFP. The clinical conse- quence of insufficient thrombin generation on clot formation is unknown, however. In contrast, MB-FFP OSSELAER ET AL. 114    TRANSFUSION Volume 48, January 2008 delivered significantly higher levels of coagulation inhibi- tor antithrombin as well as plasminogen and a 2PI than PCT-FFP, but remained within the range described for therapeutic efficacy. In summary, with matched plasma units and treating these units with pathogen inactivation processes under similar settings, there is adequate preservation of relevant coagulation factor activities in both PCT-FFP and MB-FFP. Both products are suitable for support of patients requir- ing plasma transfusion. More detailed analysis, however, revealed that the overall coagulation factor levels and sta- bility of PCT-FFP were better preserved than in MB-FFP. Since the introduction of MB plasma, more than 3 million units have been transfused with no serious adverse events reported although few randomized con- trolled trials with MB plasma have been published. A post- marketing 5-year surveillance in one center showed a significant reduction in adverse reactions for MB-FFP compared to untreated conventional FFP. 23 Several earlier reports have suggested reduced efficacy when used as the exchange fluid in TTP. 24,25 Atance and colleagues 26 also noted increased blood component usage after conversion to MB plasma, perhaps due to decreased therapeutic effi- cacy of MB plasma. PCT-FFP has been evaluated in three Phase III clinical trials with 203 patients for all major indications: congenital 27 and acquired coagulation 28 defi- ciencies andTTP. 29 The results of these trials demonstrated the efficacy and safety of PCT-FFP in the settings for which FFP transfusion is indicated. This study compared the MB system with the PCT system on the effect of pathogen inactivation treatment on protein function with in vitro assays. Additional paired studies are needed to determine whether the observed differences are clinically relevant. For  both  systems,  there  are  published  studies addressing the safety of adding a substance to a blood component for pathogen inactivation. Toxicology assess- ment in conformance with the International Conference on Harmonization (ICH) standards has been conducted with nonphotoilluminated amotosalen and amotosalen photochemically treated plasma. Results of these studies show large safety margins relative to the expected clinical exposure. 30,31 In published toxicology studies on MB, large safety margins have also been shown, but the toxicologic assessment available in the literature is limited to MB, not photoilluminated MB in plasma. 32,33 The safety of the MB system is largely supported by years of clinical use expe- rience and several million units of MB-plasma transfused. For implementation of a new pathogen inactivation technology, although it is important to evaluate the mechanism of action, pathogen inactivation efficacy, coagulation factor activity, toxicology, clinical efficacy, and safety, a blood center must take into consideration the processing logistics. The MB illuminator is a stand-alone floor model that illuminates 4 units (235-315 mL) of plasma simultaneously, whereas two PCT UVA illumina- tors can be stacked and illuminate four jumbo units (650 mL) of plasma. In the same time frame, under routine blood bank operation conditions, 12 PCT-FFP products (200 mL) can be manufactured compared to 4 MB-FFP products (200-300 mL). It should be noted that the MB system is capable of treating single-donor products from whole-blood or apheresis procedures. The apheresis plasma units, if more than 315 mL, must be split before treatment. The PCT system is capable of treating single- donor jumbo apheresis plasma units. For centers that do not collect enough apheresis plasma for therapeutic transfusions, whole blood–derived plasma can be treated with PCT by pooling 2 to 3 units before treatment. This requirement may pose a problem for blood collection establishments where such pooling is not authorized. The synergy of using the same technology and same system for PLTs and plasma is important in our institution. Our center introduced the PCT system for PLTs in October 2003; adding the PCT system for plasma is logistically effi- cient because the same UVA illuminators are used to treat PLTs and plasma with very similar processing procedures. ACKNOWLEDGMENTS The authors thank Ms Edith Goossenaerts for support in the coordination and supplies for the study, Ms Rebecca Spurling for technical assistance with the ADAMTS-13 activity assay, and Dr Laurence Corash for his review of the manuscript. REFERENCES 1.  Williamson LM, Cardigan R, Prowse CV. Methylene blue- treated fresh-frozen plasma: what is its contribution to blood safety? Transfusion 2003;43:1322-9. 2.  Lin L, Dikeman R, Molini B, Lukehart SA, Lane R, Dupuis K, Metzel P, Corash L. Photochemical treatment of platelet concentrates with amotosalen and long-wavelength ultra- violet light inactivates a broad spectrum of pathogenic bacteria. Transfusion 2004;44:1496-504. 3.  Lin L, Hanson CV, Alter HJ, Jauvin V, Bernard KA, Murthy KK, Metzel P, Corash L. Inactivation of viruses in platelet concentrates by photochemical treatment with amotosalen and long-wavelength ultraviolet light. Transfusion 2005;45: 580-90. 4.  Wollowitz S. Fundamentals of the psoralen-based Helinx technology for inactivation of infectious pathogens and leukocytes in platelets and plasma. Semin Hematol 2001; 38(4 Suppl11):4-11. 5.  Singh Y, Sawyer LS, Pinkoski LS, Dupuis KW, Hsu JC, Lin L, Corash L. Photochemical treatment of plasma with amo- tosalen and long-wavelength ultraviolet light inactivates pathogens while retaining coagulation function. Transfu- sion 2006;46:1168-77. 6.  Muller-Breitkreutz K, Mohr H, Briviba K, Sies H. Inactiva- COMPARISON: METHYLENE BLUE AND AMOTOSALEN Volume 48, January 2008 TRANSFUSION    115 tion of viruses by chemically and photochemically gener- ated singlet molecular oxygen. J Photochem Photobiol B 1995;30:63-70. 7.  Lin L, Conlan MG, Tessman J, Tessman J, Cimino G, Porter S. Amotosalen interactions with platelet and plasma components: absence of neoantigen formation after photochemical treatment. Transfusion 2005;45:1610-20. 8.  Van Voorhis WC, Barrett LK, Eastman RT, Alfonso R, Dupuis K. Trypanosoma cruzi inactivation in human plate- let concentrates and plasma by a psoralen (amotosalen HCl) and long-wavelength UV. Antimicrob Agents Chemother 2003;47:475-9. 9.  Eastman RT, Barrett LK, Dupuis K, Buckner FS, Voorhis WC. Leishmania inactivation in human pheresis platelets by a psoralen (amotosalen HCl) and long-wavelength ultraviolet irradiation. Transfusion 2005;45:1459-63. 10.  Castro E, Gironés N, Bueno JL, Carrion J, Fresno M. The efficacy of photochemical treatment with amotosalen and UVA (INTERCEPT) for the inactivation of Trypanosoma cruzi (T. cruzi) in buffy coat derived platelet components. Vox Sang 2006;91(S3):176. 11.  Girones N, Bueno JL, Carrion J, Fresno M, Castro E. The efficacy of photochemical treatment with methylene blue and light for the reduction of Trypanosoma cruzi in infected plasma. Vox Sang 2006;91:285-91. 12.  Wagner SJ, Robinette D, Storry J, Chen XY, Shumaker J, Benade L. Differential sensitivities of viruses in red cell suspensions to methylene blue photosensitization. Transfusion 1994;34:521-6. 13.  Aznar JA, Molina R, Montoro JM. Factor VIII/von Willebrand factor complex in methylene blue-treated fresh plasma. Transfusion 1999;39:748-50. 14.  Garwood M, Cardigan RA, Drummond O, Hornsey V, Turner CP, Young D, Williamson LM, Prowse CV. The effect of methylene blue photoinactivation and methylene blue removal on the quality of fresh-frozen plasma. Transfusion 2003;43:1238-47. 15.  Hornsey VS, Drummond O, Young D, Docherty A, Prowse CV. A potentially improved approach to methylene blue virus inactivation of plasma: the Maco Pharma Maco- Tronic system. Transfus Med 2001;11:31-6. 16.  Beeck H, Hellstern P. In vitro characterization of solvent/ detergent-treated human plasma and of quarantine fresh frozen plasma. Vox Sang 1998;74 (Suppl1):219-23. 17.  Heiden M, Seitz R. Quality of therapeutic plasma- requirements for marketing authorization. Thromb Res 2002;107 (Suppl1):S47-51. 18.  Solheim B. Composition, efficacy, and safety of S/D-treated plasma. Transfusion 2003;43:1176-8. 19.  Beach KJ. Important prescribing information [monograph on the Internet]. Watertown (MA): V.I. Technologies, Inc. (VITEX); 2000 Oct 20. Available from: http://www.fda.gov/ medwatch/safety/2000/plassd.pdf 20.  Flamholz R, Jeon HR, Baron JM, Baron BW. Study of three patients with thrombotic thrombocytopenic purpura exchanged with solvent/detergent-treated plasma: is its decreased protein S activity clinically related to their devel- opment of deep venous thromboses? J Clin Apher 2000;15: 169-72. 21.  Yarranton H, Cohen H, Pavord SR, Benjamin S, Machin SJ. Venous thromboembolism associated with the manage- ment of acute thrombotic thrombocytopenic purpura. Br J Haematol 2003;121:778-85. 22.  Pock K, Heger A, Janisch S, Svae T-E, Romisch J. Thrombin generation capacity is significantly impaired in methylene- blue treated plasma compared to normal levels in single- donor fresh-frozen plasma, a pharmaceutically licensed coagulation active plasma (Octaplas), and a development product (Uniplas) [abstract]. Proceedings of Pathogen Inactivation Consensus Conference; Toronto, Canada; 2007 Mar 29-30. 23.  Politis C, Kavallierou L, Hantziara S, Katsea, P, Triantaphylou V, Richardson C, Tsoutsos D, Anagnosto- poulos N, Gorgolidis G, Ziroyannis, P. Quality and safety of fresh-frozen plasma inactivated and leucoreduced with the Theraflex methylene blue system including the Blueflex filter: 5 years’ experience. Vox Sang 2007;92:319-26. 24.  Alvarez-Larran A, Del Rio J, Ramirez C, Albo C, Peña, F, Campos A, Cid J, Muncunill J, Sastre J-L, Sanz C, Pereira A. Methylene blue-photoinactivated plasma vs. fresh-frozen plasma as replacement fluid for plasma exchange in thrombotic thrombocytopenic purpura. Vox Sang 2004;86: 246-51. 25.  de la Rubia J, Arriaga F, Linares D, Larrea L, Carpio N, Marty ML, Sanz MA. Role of methylene blue-treated or fresh frozen plasma in the response to plasma exchange in patients with thrombotic thrombocytopenic purpura. Br J Haematol 2001;114:721-3. 26.  Atance R, Pereira A, Ramirez B. Transfusing methylene blue-photoinactivated plasma instead of FFP is associated with an increased demand for plasma and cryoprecipitate. Transfusion 2001;41:1548-52. 27.  de Alarcon P, Benjamin R, Dugdale M, Kessler C, Shopnick R, Smith P, Abshire T, Hambleton J, Matthew P, Ortiz I, Cohen A, Konkle BA, Streiff M, Lee M, Wages D, Corash L. Fresh frozen plasma prepared with amotosalen HCl (S-59) photochemical pathogen inactivation: transfusion of patients with congenital coagulation factor deficiencies. Transfusion 2005;45:1362-72. 28.  Mintz PD, Bass NM, Petz LD, Steadman R, Streiff M, McCullough J, Burks S, Wages D, Van Doren S, Corash L. Photochemically treated fresh frozen plasma for transfu- sion of patients with acquired coagulopathy of liver disease. Blood 2006;107:3753-60. 29.  Mintz PD, Neff A, MacKenzie M, Goodnough LT, Hillyer C, Kessler C, McCrae K, Menitove JE, Skikne BS, Damon L, Lopez-Plaza, I, Rouault C, Crookston KP, Benjamin RJ, George J, Lin JS, Corash L, Conlan M. A randomized, con- trolled Phase III trial of therapeutic plasma exchange with fresh-frozen plasma (FFP) prepared with amotosalen and OSSELAER ET AL. 116    TRANSFUSION Volume 48, January 2008 ultraviolet A light compared to untreated FFP in throm- botic thrombocytopenic purpura. Transfusion 2006;46: 1693-704. 30.  Ciaravino V, McCullough T, Cimino G, Sullivan T. Preclini- cal safety profile of plasma prepared using the INTERCEPT Blood System. Vox Sang 2003;85:171-82. 31.  Ciaravino V. Preclinical safety of a nucleic acid-targeted Helinx compound: a clinical perspective. Semin Hematol 2001;38(4 Suppl11):12-9. 32.  Wagner SJ, Cifone MA, Murli H, Dodd RY, Myhr B. Mam- malian genotoxicity assessment of methylene blue in plasma: implications for virus inactivation. Transfusion 1995;35:407-13. 33.  Hejtmancik MR, Ryan MJ, Toft JD, Persing RL, Kurtz PJ, Chhabra RS. Hematological effects in F344 rats and B6C3F1 mice during the 13-week gavage toxicity study of methylene blue trihydrate. Toxicol Sci 2002;65:126- 34. COMPARISON: METHYLENE BLUE AND AMOTOSALEN Volume 48, January 2008 TRANSFUSION    117 ",
+  "relationships": [],
+  "schema": {
+    "annotation_types": [
+      {
+        "id": "Vehicle",
+        "name": "Vehicle",
+        "color": "#ce11dd"
+      },
+      {
+        "id": "TestArticleVerification",
+        "name": "TestArticleVerification",
+        "color": "#4e6ff0"
+      },
+      {
+        "id": "GroupName",
+        "name": "GroupName",
+        "color": "#70f07b"
+      },
+      {
+        "id": "GroupSize",
+        "name": "GroupSize",
+        "color": "#dc9ef3"
+      },
+      {
+        "id": "SampleSize",
+        "name": "SampleSize",
+        "color": "#dc597f"
+      },
+      {
+        "id": "Species",
+        "name": "Species",
+        "color": "#62c2e3"
+      },
+      {
+        "id": "Strain",
+        "name": "Strain",
+        "color": "#9a4329"
+      },
+      {
+        "id": "Sex",
+        "name": "Sex",
+        "color": "#74aa70"
+      },
+      {
+        "id": "CellLine",
+        "name": "CellLine",
+        "color": "#03fe25"
+      },
+      {
+        "id": "Dose",
+        "name": "Dose",
+        "color": "#2197c9"
+      },
+      {
+        "id": "DoseUnits",
+        "name": "DoseUnits",
+        "color": "#4ad9b8"
+      },
+      {
+        "id": "DoseFrequency",
+        "name": "DoseFrequency",
+        "color": "#df3cfb"
+      },
+      {
+        "id": "DoseDuration",
+        "name": "DoseDuration",
+        "color": "#e0d1ac"
+      },
+      {
+        "id": "DoseDurationUnits",
+        "name": "DoseDurationUnits",
+        "color": "#0b6548"
+      },
+      {
+        "id": "DoseRoute",
+        "name": "DoseRoute",
+        "color": "#6d84d8"
+      },
+      {
+        "id": "TimeAtDose",
+        "name": "TimeAtDose",
+        "color": "#892d85"
+      }
+    ],
+    "relationship_types": [
+      {
+        "id": "Type1",
+        "name": "Type1",
+        "color": "blue"
+      },
+      {
+        "id": "Type2",
+        "name": "Type2",
+        "color": "#ce11dd"
+      }
+    ]
+  },
+  "highlights": [
+    {
+      "content": {
+        "text": "mL"
+      },
+      "position": {
+        "boundingRect": {
+          "x1": 565.9112548828125,
+          "y1": 275.390625,
+          "x2": 584.7638549804688,
+          "y2": 289.390625,
+          "width": 762.9999999999999,
+          "height": 1005.7727272727271
+        },
+        "rects": [
+          {
+            "x1": 565.9112548828125,
+            "y1": 275.390625,
+            "x2": 584.7638549804688,
+            "y2": 289.390625,
+            "width": 762.9999999999999,
+            "height": 1005.7727272727271,
+            "background": "#4ad9b8"
+          }
+        ],
+        "pageNumber": 2
+      },
+      "comment": {
+        "text": "DoseUnits",
+        "relationship": "",
+        "begin": 7360,
+        "end": 7362
+      },
+      "userName": "x9o",
+      "timestamp": 1662130048220,
+      "id": "7801257286607421"
+    },
+    {
+      "content": {
+        "text": "235-315"
+      },
+      "position": {
+        "boundingRect": {
+          "x1": 517.2806396484375,
+          "y1": 275.390625,
+          "x2": 562.5269775390625,
+          "y2": 289.390625,
+          "width": 762.9999999999999,
+          "height": 1005.7727272727271
+        },
+        "rects": [
+          {
+            "x1": 517.2806396484375,
+            "y1": 275.390625,
+            "x2": 562.5269775390625,
+            "y2": 289.390625,
+            "width": 762.9999999999999,
+            "height": 1005.7727272727271,
+            "background": "#2197c9"
+          }
+        ],
+        "pageNumber": 2
+      },
+      "comment": {
+        "text": "Dose",
+        "relationship": "",
+        "begin": 7611,
+        "end": 7618
+      },
+      "userName": "x9o",
+      "timestamp": 1662130041298,
+      "id": "08013388748371941"
+    },
+    {
+      "content": {
+        "text": "PCT-FFP"
+      },
+      "position": {
+        "boundingRect": {
+          "x1": 123.77139282226562,
+          "y1": 668.015625,
+          "x2": 169.8270263671875,
+          "y2": 681.015625,
+          "width": 762.9999999999999,
+          "height": 1005.7727272727271
+        },
+        "rects": [
+          {
+            "x1": 123.77139282226562,
+            "y1": 668.015625,
+            "x2": 169.8270263671875,
+            "y2": 681.015625,
+            "width": 762.9999999999999,
+            "height": 1005.7727272727271,
+            "background": "#9a4329"
+          }
+        ],
+        "pageNumber": 1
+      },
+      "comment": {
+        "text": "Strain",
+        "relationship": "",
+        "begin": 824,
+        "end": 831
+      },
+      "userName": "x9o",
+      "timestamp": 1662130016299,
+      "id": "2445560474342976"
+    },
+    {
+      "content": {
+        "text": "ADAMTS-13"
+      },
+      "position": {
+        "boundingRect": {
+          "x1": 78.84375,
+          "y1": 652.640625,
+          "x2": 140.693603515625,
+          "y2": 665.640625,
+          "width": 762.9999999999999,
+          "height": 1005.7727272727271
+        },
+        "rects": [
+          {
+            "x1": 78.84375,
+            "y1": 652.640625,
+            "x2": 140.693603515625,
+            "y2": 665.640625,
+            "width": 762.9999999999999,
+            "height": 1005.7727272727271,
+            "background": "#9a4329"
+          }
+        ],
+        "pageNumber": 1
+      },
+      "comment": {
+        "text": "Strain",
+        "relationship": "",
+        "begin": 1329,
+        "end": 1338
+      },
+      "userName": "x9o",
+      "timestamp": 1662130006691,
+      "id": "934042558575884"
+    },
+    {
+      "content": {
+        "text": "photochemical treatment"
+      },
+      "position": {
+        "boundingRect": {
+          "x1": 150.09368896484375,
+          "y1": 148.265625,
+          "x2": 404.0213623046875,
+          "y2": 171.265625,
+          "width": 762.9999999999999,
+          "height": 1005.7727272727271
+        },
+        "rects": [
+          {
+            "x1": 150.09368896484375,
+            "y1": 148.265625,
+            "x2": 404.0213623046875,
+            "y2": 171.265625,
+            "width": 762.9999999999999,
+            "height": 1005.7727272727271,
+            "background": "#ce11dd"
+          }
+        ],
+        "pageNumber": 1
+      },
+      "comment": {
+        "text": "Vehicle",
+        "relationship": "",
+        "begin": 78,
+        "end": 101
+      },
+      "userName": "x9o",
+      "timestamp": 1662129986006,
+      "id": "005437784782709398"
+    }
+  ]
 }

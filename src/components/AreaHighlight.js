@@ -58,8 +58,8 @@ class AreaHighlight extends Component {
             event.preventDefault();
           },
         },
-        otherProps
-      )
+        otherProps,
+      ),
     );
   }
 }

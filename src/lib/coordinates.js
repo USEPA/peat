@@ -31,7 +31,7 @@ const pdfToViewport = (pdf, viewport) => {
 export const scaledToViewport = (
   scaled,
   viewport,
-  usePdfCoordinates = false
+  usePdfCoordinates = false,
 ) => {
   const { width, height } = viewport;
 

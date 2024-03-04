@@ -59,7 +59,7 @@ class MouseMonitor extends Component {
       {
         ref: (node) => (this.container = node),
       },
-      React.cloneElement(children, restProps)
+      React.cloneElement(children, restProps),
     );
   }
 }

@@ -25,7 +25,7 @@ const getAreaAsPNG = (canvas, position) => {
     0,
     0,
     width,
-    height
+    height,
   );
   return newCanvas.toDataURL("image/png");
 };

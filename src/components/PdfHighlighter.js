@@ -62,7 +62,7 @@ class PdfHighlighter extends PureComponent {
     _defineProperty(this, "hideTipAndSelection", () => {
       const tipNode = findOrCreateContainerLayer(
         this.viewer.viewer,
-        "PdfHighlighter__tip-layer"
+        "PdfHighlighter__tip-layer",
       );
       ReactDom.unmountComponentAtNode(tipNode);
       this.setState(
@@ -70,7 +70,7 @@ class PdfHighlighter extends PureComponent {
           ghostHighlight: null,
           tip: null,
         },
-        () => this.renderHighlights()
+        () => this.renderHighlights(),
       );
     });
 
@@ -94,7 +94,7 @@ class PdfHighlighter extends PureComponent {
           ...pageViewport.convertToPdfPoint(
             0,
             scaledToViewport(boundingRect, pageViewport, usePdfCoordinates)
-              .top - scrollMargin
+              .top - scrollMargin,
           ),
           0,
         ],
@@ -103,7 +103,7 @@ class PdfHighlighter extends PureComponent {
         {
           scrolledToHighlightId: highlight.id,
         },
-        () => this.renderHighlights()
+        () => this.renderHighlights(),
       ); // wait for scrolling to finish
 
       setTimeout(() => {
@@ -149,7 +149,7 @@ class PdfHighlighter extends PureComponent {
         {
           scrolledToHighlightId: EMPTY_ID,
         },
-        () => this.renderHighlights()
+        () => this.renderHighlights(),
       );
       this.viewer.container.removeEventListener("scroll", this.onScroll);
     });
@@ -217,9 +217,9 @@ class PdfHighlighter extends PureComponent {
                   position: scaledPosition,
                 },
               },
-              () => this.renderHighlights()
-            )
-        )
+              () => this.renderHighlights(),
+            ),
+        ),
       );
     });
   }
@@ -281,7 +281,7 @@ class PdfHighlighter extends PureComponent {
 
     return findOrCreateContainerLayer(
       textLayer.textLayerDiv,
-      "PdfHighlighter__highlight-layer"
+      "PdfHighlighter__highlight-layer",
     );
   }
 
@@ -319,7 +319,7 @@ class PdfHighlighter extends PureComponent {
     return {
       boundingRect: scaledToViewport(boundingRect, viewport, usePdfCoordinates),
       rects: (rects || []).map((rect) =>
-        scaledToViewport(rect, viewport, usePdfCoordinates)
+        scaledToViewport(rect, viewport, usePdfCoordinates),
       ),
       pageNumber,
     };
@@ -366,7 +366,7 @@ class PdfHighlighter extends PureComponent {
                 }
 
                 const isScrolledTo = Boolean(
-                  scrolledToHighlightId === highlight.id
+                  scrolledToHighlightId === highlight.id,
                 );
                 return highlightTransform(
                   viewportHighlight,
@@ -383,17 +383,17 @@ class PdfHighlighter extends PureComponent {
                   this.hideTipAndSelection,
                   (rect) => {
                     const viewport = this.viewer.getPageView(
-                      pageNumber - 1
+                      pageNumber - 1,
                     ).viewport;
                     return viewportToScaled(rect, viewport);
                   },
                   (boundingRect) => this.screenshot(boundingRect, pageNumber),
-                  isScrolledTo
+                  isScrolledTo,
                 );
-              }
-            )
+              },
+            ),
           ),
-          highlightLayer
+          highlightLayer,
         );
       }
     }
@@ -407,7 +407,7 @@ class PdfHighlighter extends PureComponent {
     const pageBoundingRect = page.node.getBoundingClientRect();
     const tipNode = findOrCreateContainerLayer(
       this.viewer.viewer,
-      "PdfHighlighter__tip-layer"
+      "PdfHighlighter__tip-layer",
     );
     ReactDom.render(
       React.createElement(TipContainer, {
@@ -421,14 +421,14 @@ class PdfHighlighter extends PureComponent {
         },
         children: inner,
       }),
-      tipNode
+      tipNode,
     );
   }
 
   toggleTextSelection(flag) {
     this.viewer.viewer.classList.toggle(
       "PdfHighlighter--disable-selection",
-      flag
+      flag,
     );
   }
   async getT() {
@@ -529,14 +529,14 @@ class PdfHighlighter extends PureComponent {
                         () => {
                           resetSelection();
                           this.renderHighlights();
-                        }
-                      )
-                  )
+                        },
+                      ),
+                  ),
                 );
               },
             })
-          : null
-      )
+          : null,
+      ),
     );
   }
 }

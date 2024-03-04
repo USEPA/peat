@@ -1,78 +1,96 @@
 {
-"annotation_types":[{
-  "id": "Vehicle",
-  "name": "Vehicle",
-  "color": "#ce11dd"
-}, {
-  "id": "TestArticleVerification",
-  "name": "TestArticleVerification",
-  "color": "#4e6ff0"
-}, {
-  "id": "GroupName",
-  "name": "GroupName",
-  "color": "#70f07b"
-}, {
-  "id": "GroupSize",
-  "name": "GroupSize",
-  "color": "#dc9ef3"
-},{
-  "id": "SampleSize",
-  "name": "SampleSize",
-  "color": "#dc597f"
-}, {
-  "id": "Species",
-  "name": "Species",
-  "color": "#62c2e3"
-}, {
-  "id": "Strain",
-  "name": "Strain",
-  "color": "#9a4329"
-}, {
-  "id": "Sex",
-  "name": "Sex",
-  "color": "#74aa70"
-}, {
-  "id": "CellLine",
-  "name": "CellLine",
-  "color": "#03fe25"
-}, {
-  "id": "Dose",
-  "name": "Dose",
-  "color": "#2197c9"
-}, {
-  "id": "DoseUnits",
-  "name": "DoseUnits",
-  "color": "#4ad9b8"
-}, {
-  "id": "DoseFrequency",
-  "name": "DoseFrequency",
-  "color": "#df3cfb"
-}, {
-  "id": "DoseDuration",
-  "name": "DoseDuration",
-  "color": "#e0d1ac"
-}, {
-  "id": "DoseDurationUnits",
-  "name": "DoseDurationUnits",
-  "color": "#0b6548"
-}, {
-  "id": "DoseRoute",
-  "name": "DoseRoute",
-  "color": "#6d84d8"
-}, {
-  "id": "TimeAtDose",
-  "name": "TimeAtDose",
-  "color": "#892d85"
-}
-],
-"relationship_types":[{
-  "id": "Type1",
-  "name": "Type1",
-  "color": "blue"
-}, {
-  "id": "Type2",
-  "name": "Type2",
-  "color": "#ce11dd"
-}
-]
+  "annotation_types": [
+    {
+      "id": "Vehicle",
+      "name": "Vehicle",
+      "color": "#ce11dd"
+    },
+    {
+      "id": "TestArticleVerification",
+      "name": "TestArticleVerification",
+      "color": "#4e6ff0"
+    },
+    {
+      "id": "GroupName",
+      "name": "GroupName",
+      "color": "#70f07b"
+    },
+    {
+      "id": "GroupSize",
+      "name": "GroupSize",
+      "color": "#dc9ef3"
+    },
+    {
+      "id": "SampleSize",
+      "name": "SampleSize",
+      "color": "#dc597f"
+    },
+    {
+      "id": "Species",
+      "name": "Species",
+      "color": "#62c2e3"
+    },
+    {
+      "id": "Strain",
+      "name": "Strain",
+      "color": "#9a4329"
+    },
+    {
+      "id": "Sex",
+      "name": "Sex",
+      "color": "#74aa70"
+    },
+    {
+      "id": "CellLine",
+      "name": "CellLine",
+      "color": "#03fe25"
+    },
+    {
+      "id": "Dose",
+      "name": "Dose",
+      "color": "#2197c9"
+    },
+    {
+      "id": "DoseUnits",
+      "name": "DoseUnits",
+      "color": "#4ad9b8"
+    },
+    {
+      "id": "DoseFrequency",
+      "name": "DoseFrequency",
+      "color": "#df3cfb"
+    },
+    {
+      "id": "DoseDuration",
+      "name": "DoseDuration",
+      "color": "#e0d1ac"
+    },
+    {
+      "id": "DoseDurationUnits",
+      "name": "DoseDurationUnits",
+      "color": "#0b6548"
+    },
+    {
+      "id": "DoseRoute",
+      "name": "DoseRoute",
+      "color": "#6d84d8"
+    },
+    {
+      "id": "TimeAtDose",
+      "name": "TimeAtDose",
+      "color": "#892d85"
+    }
+  ],
+  "relationship_types": [
+    {
+      "id": "Type1",
+      "name": "Type1",
+      "color": "blue"
+    },
+    {
+      "id": "Type2",
+      "name": "Type2",
+      "color": "#ce11dd"
+    }
+  ]
 }

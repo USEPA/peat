@@ -44,7 +44,7 @@ class Tip extends Component {
       return React.createElement(
         "option",
         { value: tag.name, key: tag.id },
-        tag.name
+        tag.name,
       );
     });
     return React.createElement(
@@ -64,7 +64,7 @@ class Tip extends Component {
                 });
               },
             },
-            "Add Annotation"
+            "Add Annotation",
           )
         : React.createElement(
             "form",
@@ -90,8 +90,8 @@ class Tip extends Component {
                       text: event.target.value,
                     }),
                 },
-                tagsList
-              )
+                tagsList,
+              ),
             ),
             React.createElement(
               "div",
@@ -99,9 +99,9 @@ class Tip extends Component {
               React.createElement("input", {
                 type: "submit",
                 value: "Save",
-              })
-            )
-          )
+              }),
+            ),
+          ),
     );
   }
 }

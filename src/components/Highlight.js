@@ -16,7 +16,7 @@ class Highlight extends Component {
       "div",
       {
         className: `Highlight ${isScrolledTo ? "Highlight--scrolledTo" : ""}`,
-      }, 
+      },
 
       rects.map((rect, index) =>
         React.createElement("div", {
@@ -28,8 +28,8 @@ class Highlight extends Component {
           className: `Highlight__part`,
           //background: "black",
           id: comment.text,
-        })
-      )
+        }),
+      ),
     );
   }
 }

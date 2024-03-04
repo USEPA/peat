@@ -45,7 +45,7 @@ class Popup extends Component {
               paddingX: 60,
               paddingY: 30,
               children: popupContent,
-            })
+            }),
           );
         },
         onMouseOut: () => {
@@ -54,7 +54,7 @@ class Popup extends Component {
           });
         },
       },
-      this.props.children
+      this.props.children,
     );
   }
 }
