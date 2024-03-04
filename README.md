@@ -234,6 +234,7 @@ This will create a release folder providing multiple application versions.
 
 <details>
 <summary>Delete Annotations</summary>
+
 1\. Select annotation you wish to delete from the table in the side bar.
 
 ---
@@ -260,6 +261,7 @@ This will create a release folder providing multiple application versions.
 
 <details>
 <summary>Edit Schema</summary>
+
 1\. Click *Edit Schema* hyper-link
 
 ---
@@ -291,6 +293,7 @@ This will create a release folder providing multiple application versions.
 
 <details>
 <summary>Auto Annotation</summary>
+
 1\. Type word or phrase to be searched for in *Find in document* search
 bar
 
