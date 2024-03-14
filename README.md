@@ -340,7 +340,7 @@ matches found in the document.
 
 This is an annotated sample of exported annotation data.
 
-```json
+```json5
 {
     "text": "This is the text of the document",  // Text version of the PDF file, contains full text of the document as a string.
     "relationships": [], // Not yet implimented, experimental feature for creating relational contructs between annotations.
