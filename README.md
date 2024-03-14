@@ -334,6 +334,69 @@ matches found in the document.
 </details>
 </br>
 
+# Annotation Output
+<details>
+<summary>Example JSON</summary>
+
+This is an annotated sample of exported annotation data.
+
+```json
+{
+    "text": "This is the text of the document",  // Text version of the PDF file, contains full text of the document as a string.
+    "relationships": [], // Not yet implimented, experimental feature for creating relational contructs between annotations.
+    "schema": { // Schema used to annotate the document
+        "annotation_types": [
+            {
+                "id": "foo", // Unique ID
+                "name": "foo", // Text name
+                "color": "#ce11dd"  // HTML display color
+            }
+        ],
+        "relationship_types": [] // Not yet implimented
+    },
+    "highlights": [
+        {
+            "content": {
+                "text": "text of the annotation"  // Text of the annotation highlight as a string.
+            },
+            "position": {  // Bounding box position of the highlight within the PDF coordinates.
+                "boundingRect": {
+                    "x1": 66.8515625,
+                    "y1": 250.1328125,
+                    "x2": 205.14230346679688,
+                    "y2": 263.1328125,
+                    "width": 763,
+                    "height": 1079.0995605399849
+                },
+                "rects": [ // Can have multiple rects if text spans lines
+                    {
+                        "x1": 66.8515625,
+                        "y1": 250.1328125,
+                        "x2": 205.14230346679688,
+                        "y2": 263.1328125,
+                        "width": 763,
+                        "height": 1079.0995605399849,
+                        "background": "#70f07b" // Highlight color
+                    }
+                ],
+                "pageNumber": 1
+            },
+            "comment": {  
+                "text": "foo",  // Annotation ID
+                "relationship": "",
+                "begin": 267,  // Offset coordinates within the document text.
+                "end": 298
+            },
+            "userName": "your_username",
+            "timestamp": 1710438139123,
+            "id": "34752752411373633" // highlight ID
+        }
+    ]
+}
+```
+</details>
+</br>
+
 # Contributing
 
 There are many ways you can contribute to PEAT, such as:
