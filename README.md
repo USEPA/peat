@@ -11,11 +11,11 @@ The application allows users to load PDFs directly from their file system along 
 <details>
 <summary>Windows</summary>
 
-1\. Download latest version from (PEAT_1.1.0)
+1\. Download latest version from (PEAT_1.0.2)
 
-[https://github.com/USEPA/peat/releases/download/v1.0.1-win/peat-1.0.1.zip](https://github.com/USEPA/peat/releases/download/v1.0.1-win/peat-1.0.1.zip)
+[https://github.com/USEPA/peat/releases/download/v1.0.2-win/peat-1.0.2.zip](https://github.com/USEPA/peat/releases/download/v1.0.2-win/peat-1.0.2.zip)
 
-2\. Right click 'peat-1.0.1.zip' and select 'Extract All'
+2\. Right click 'peat-1.0.2.zip' and select 'Extract All'
 
 ---
 
@@ -31,7 +31,7 @@ The application allows users to load PDFs directly from their file system along 
 
 ---
 
-4\. From the extracted location double click the *PANDHA_1.1.0*Folder
+4\. From the extracted location double click the *peat_1.0.2* Folder
 
 ---
 
