@@ -10,8 +10,11 @@ on:
   workflow_dispatch:
 
 jobs:
-  package:
-    runs-on: ubuntu-24.04
+  name: Build on ${{ matrix.os }}
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [windows-2022]
     steps:
     - uses: actions/checkout@v4
     - uses: actions/setup-node@v4
