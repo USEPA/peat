@@ -11,79 +11,52 @@ The application allows users to load PDFs directly from their file system along 
 <details>
 <summary>Windows</summary>
 
-1\. Download latest version from (PEAT_1.1.0)
+A compiled Windows binary is created and added to every release in GitHub.
 
-[https://github.com/USEPA/peat/releases/download/v1.0.1-win/peat-1.0.1.zip](https://github.com/USEPA/peat/releases/download/v1.0.1-win/peat-1.0.1.zip)
+1. Download latest release from https://github.com/USEPA/peat/releases/. It should be zip file named `peat-windows.zip`
+1. Unzip the zip file.
 
-2\. Right click 'peat-1.0.1.zip' and select 'Extract All'
+    ---
 
----
+    ![](./media/image4.png)
 
-![](./media/image4.png)
-
----
-
-3\. Select location and hit _Extract_
-
----
-
-![](./media/image5.png)
-
----
-
-4\. From the extracted location double click the *PANDHA_1.1.0*Folder
-
----
-
-![](./media/image6.png)
-
----
-
-5\. Double click _PEAT.exe_ to start the application
-
----
-
-![](./media/image7.png)
-
----
-
-7\. Select the PDF and Schema (tags.json is including in the PEAT/test
-folder) and click _Load_
-
----
+    ---
+1. Double click the PEAT installer to install the application
+1. After installation, a `PEAT` shortcut should be added to your desktop and Start Menu.
+1. Select the PDF and Schema (example files are available; [tags.json](https://github.com/USEPA/peat/blob/main/public/tags.json) and [test.pdf](https://github.com/USEPA/peat/blob/main/public/test.pdf)) and click _Load_
 
 ![](./media/image8.png)
 
 ---
 
----
+The application is installed in `%USERPROFILE%\AppData\Local\Programs\peat`.
+
+An uninstaller is also available in this location.
+
+You can also follow the instructions below to build the application from source.
 
 </details>
 
 <details>
 <summary>Linux/Mac</summary>
 
-1.  Clone the repo
-    `git clone https://github.com/USEPA/peat.git`
+1.  Clone the repo `git clone https://github.com/USEPA/peat.git`
 
-2.  Install and download the following prerequisites.
+2.  Install the following prerequisites:
+    * NodeJS: https://nodejs.org/
+    * Yarn: https://yarnpkg.com/
 
-NodeJS: https://nodejs.org/
-Yarn: https://yarnpkg.com/
+3. In the PEAT directory run yarn to download the dependencies:
 
-3. In the PEAT directory run yarn to download the depdencies.
+    `yarn`
 
-`yarn`
+4. Run the application:
 
-4. Run the application
+    `yarn start`
 
-`yarn start`
+5. To build a standalone application for you system run:
 
-## 1.3 Packageing
-
-1. In order to build a standalone application for you system run.
-
-`yarn package`
+    `yarn package`
 
 This will create a release folder providing multiple application versions.
 
@@ -381,7 +354,7 @@ This is an annotated sample of exported annotation data.
                 ],
                 "pageNumber": 1
             },
-            "comment": {  
+            "comment": {
                 "text": "foo",  // Annotation ID
                 "relationship": "",
                 "begin": 267,  // Offset coordinates within the document text.
@@ -410,3 +383,7 @@ There are many ways you can contribute to PEAT, such as:
 To get started, you will need to fork the PEAT repository and clone it to your local machine. You will also need to install Node.js and Yarn to run and build the application. Please follow the instructions in the README file for more details.
 
 If you encounter a bug or have a suggestion for an enhancement, please open an issue on git. Please provide as much information as possible to help us reproduce and resolve the issue. Please also check if there are any existing issues or pull requests that are similar to yours before opening a new one.
+
+# Disclaimer
+
+The United States Environmental Protection Agency (EPA) GitHub project code and binary files are provided on an "as is" basis and the user assumes responsibility for its use.  EPA has relinquished control of the information and no longer has responsibility to protect the integrity, confidentiality, or availability of the information.  Any reference to specific commercial products, processes, or services by service mark, trademark, manufacturer, or otherwise, does not constitute or imply their endorsement, recommendation or favoring by EPA.  The EPA seal and logo shall not be used in any manner to imply endorsement of any commercial product or activity by EPA or the United States Government.
