@@ -11,18 +11,18 @@ on:
 
 jobs:
   name: Build on ${{ matrix.os }}
-    runs-on: ${{ matrix.os }}
-    strategy:
-      matrix:
-        os: [windows-2022]
-    steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-node@v4
-      with:
-        node-version: 22
-    - name: install
-      run: |
-        yarn
-    - name: build
-      run: |
-        yarn package
+  runs-on: ${{ matrix.os }}
+  strategy:
+    matrix:
+      os: [windows-2022]
+  steps:
+  - uses: actions/checkout@v4
+  - uses: actions/setup-node@v4
+    with:
+      node-version: 22
+  - name: install
+    run: |
+      yarn
+  - name: build
+    run: |
+      yarn package
