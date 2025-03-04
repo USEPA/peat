@@ -2,6 +2,8 @@
   "name": "peat",
   "productName": "PEAT",
   "version": "1.0.2",
+  "url": "https://github.com/USEPA/peat.git",
+  "license": "MIT",
   "description": "PDF Entity Annotation Tool",
   "private": true,
   "devDependencies": {

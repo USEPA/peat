@@ -27,3 +27,7 @@ jobs:
     - name: build
       run: |
         yarn package
+    - uses: actions/upload-artifact@v4
+      with:
+        path: ./build
+        retention-days: 7
