@@ -1,0 +1,26 @@
+name: package
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '30 3 1 */1 *'  # At 03:30 on the 1st of every month
+  workflow_dispatch:
+
+jobs:
+  package:
+    runs-on: ubuntu-24.04
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-node@v4
+      with:
+        node-version: 22
+        cache: 'yarn'
+    - name: install
+      run: |
+        yarn
+    - name: build
+      run: |
+        yarn package
