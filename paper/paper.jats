@@ -211,11 +211,11 @@ U.S. EPA, UT-Battelle, LLC, or U.S. Department of Energy.</bold></p>
   documents while maintaining their visual look and structure. While the
   format handles that task very well, it does not lend to the extraction
   of data to other formats. The opening of the PDF standard in 2008
-  (<xref alt="“PDF,” 2022" rid="ref-pdf" ref-type="bibr">“PDF,”
-  2022</xref>) has helped facilitate PDF text extraction, but document
-  formatting and content (e.g., coordinates of text within a document)
-  can still be lost during PDF to text conversion using currently
-  available tools
+  (<xref alt="International Organization for Standardization, 2020" rid="ref-pdf" ref-type="bibr">International
+  Organization for Standardization, 2020</xref>) has helped facilitate
+  PDF text extraction, but document formatting and content (e.g.,
+  coordinates of text within a document) can still be lost during PDF to
+  text conversion using currently available tools
   (<xref alt="Xu et al., 2013" rid="ref-XuU003A2013" ref-type="bibr">Xu
   et al., 2013</xref>).</p>
   <p>Existing annotation solutions such as BRAT
@@ -224,8 +224,8 @@ U.S. EPA, UT-Battelle, LLC, or U.S. Department of Energy.</bold></p>
   (<xref alt="Islamaj et al., 2020" rid="ref-IslamajU003A2020" ref-type="bibr">Islamaj
   et al., 2020</xref>), GATE
   (<xref alt="GATE, 2022" rid="ref-gate" ref-type="bibr"><italic>GATE</italic>,
-  2022</xref>), and
-  Dextr(<xref alt="Walker et al., 2022" rid="ref-WalkerU003A2022" ref-type="bibr">Walker
+  2022</xref>), and Dextr
+  (<xref alt="Walker et al., 2022" rid="ref-WalkerU003A2022" ref-type="bibr">Walker
   et al., 2022</xref>) rely on first converting the PDF to a plain text
   layer before annotation by the user. Not only does this require the
   researcher to annotate unstructured plain text as opposed to a fully
@@ -243,8 +243,8 @@ U.S. EPA, UT-Battelle, LLC, or U.S. Department of Energy.</bold></p>
   (<xref alt="Tyurin, 2022" rid="ref-highlight" ref-type="bibr">Tyurin,
   2022</xref>) is a library that allows for basic annotations to be
   created in on top of PDFJS
-  (<xref alt="“PDF.js,” 2022" rid="ref-pdfjs" ref-type="bibr">“PDF.js,”
-  2022</xref>) based applications and was used as a baseline for our
+  (<xref alt="Mozilla, 2025" rid="ref-pdfjs" ref-type="bibr">Mozilla,
+  2025</xref>) based applications and was used as a baseline for our
   application.</p>
   <p><monospace>PEAT</monospace> was designed to take advantage of the
   latest advancements in PDF text extraction methods while also allowing
@@ -255,11 +255,11 @@ U.S. EPA, UT-Battelle, LLC, or U.S. Department of Energy.</bold></p>
   future machine learning models. <monospace>PEAT</monospace> is a
   portable, standalone application built off the Electron software
   framework
-  (<xref alt="“Electron,” 2022" rid="ref-electron" ref-type="bibr">“Electron,”
-  2022</xref>) and can be used on all major operating systems (Windows,
-  Linux, and Macintosh) and provides an interface for users to annotate
-  PDFs that are displayed in their intended format.
-  <xref alt="Figure 1" rid="figU003Aexample">Figure 1</xref></p>
+  (<xref alt="Electron Authors, 2025" rid="ref-electron" ref-type="bibr">Electron
+  Authors, 2025</xref>) and can be used on all major operating systems
+  (Windows, Linux, and Macintosh) and provides an interface for users to
+  annotate PDFs that are displayed in their intended format
+  (<xref alt="Figure 1" rid="figU003Aexample">Figure 1</xref>).</p>
   <fig>
     <caption><p>PEAT User
     Interface.<styled-content id="figU003Aexample"></styled-content></p></caption>
@@ -302,7 +302,7 @@ U.S. EPA, UT-Battelle, LLC, or U.S. Department of Energy.</bold></p>
   would be used for annotations and NLP processing would be desirable.
   These feature enhancements would further increase the user’s ability
   to create more advanced annotation sets, laying the groundwork for the
-  continued growth and evolution of Machine Learning applications.</p>
+  continued growth and evolution of machine learning applications.</p>
 </sec>
 <sec id="acknowledgements">
   <title>Acknowledgements</title>
@@ -497,29 +497,32 @@ U.S. EPA, UT-Battelle, LLC, or U.S. Department of Energy.</bold></p>
   </ref>
   <ref id="ref-electron">
     <element-citation>
+      <person-group person-group-type="author">
+        <string-name>Electron Authors</string-name>
+      </person-group>
       <article-title>Electron</article-title>
-      <source>GitHub repository</source>
-      <publisher-name>OpenJS Foundation</publisher-name>
-      <year iso-8601-date="2022">2022</year>
+      <year iso-8601-date="2025">2025</year>
       <uri>https://github.com/electron/electron</uri>
     </element-citation>
   </ref>
   <ref id="ref-pdf">
     <element-citation>
-      <article-title>PDF</article-title>
-      <source>ISO Standard</source>
-      <publisher-name>ISO 32000-2:2020</publisher-name>
-      <year iso-8601-date="2022">2022</year>
+      <person-group person-group-type="author">
+        <string-name>International Organization for Standardization</string-name>
+      </person-group>
+      <article-title>ISO 32000-2:2020 document management – portable document format – part 2: PDF 2.0</article-title>
+      <year iso-8601-date="2020">2020</year>
       <uri>https://www.iso.org/standard/75839.html</uri>
     </element-citation>
   </ref>
   <ref id="ref-pdfjs">
     <element-citation>
+      <person-group person-group-type="author">
+        <name><surname>Mozilla</surname></name>
+      </person-group>
       <article-title>PDF.js</article-title>
-      <source>GitHub repository</source>
-      <publisher-name>Mozilla</publisher-name>
-      <year iso-8601-date="2022">2022</year>
-      <uri>https://github.com/mozilla/pdf.js/</uri>
+      <year iso-8601-date="2025">2025</year>
+      <uri>https://github.com/mozilla/pdf.js</uri>
     </element-citation>
   </ref>
   <ref id="ref-highlight">
